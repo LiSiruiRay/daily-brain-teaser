@@ -113,24 +113,34 @@ def get_date(props, key):
     return d["start"] if d else ""
 
 
-def get_select(props, key):
-    s = props.get(key, {}).get("select")
-    if not s:
-        return ""
-    color = TYPE_COLORS.get(s["name"], "lightgrey")
-    return badge(s["name"], color)
-
-
 def get_url(props, key):
-    url = props.get(key, {}).get("url") or ""
-    return f"[link]({url})" if url else ""
+    """Handles both URL-type and rich_text-type fields that contain links."""
+    prop = props.get(key, {})
+    # URL property type
+    if prop.get("type") == "url":
+        url = prop.get("url") or ""
+        return f"[link]({url})" if url else ""
+    # Rich text — extract the first URL from text or href
+    for part in prop.get("rich_text", []):
+        href = part.get("href") or part.get("text", {}).get("link", {}) or {}
+        if isinstance(href, dict):
+            href = href.get("url", "")
+        if href:
+            return f"[link]({href})"
+        # fallback: plain text that looks like a URL
+        text = part.get("plain_text", "")
+        if text.startswith("http"):
+            return f"[link]({text})"
+    return ""
 
 
-def get_multi_select(props, key):
+def get_multi_select(props, key, color_map=None):
+    if color_map is None:
+        color_map = TAG_COLORS
     items = props.get(key, {}).get("multi_select", [])
     badges = []
     for item in items:
-        color = TAG_COLORS.get(item["name"], "95a5a6")
+        color = color_map.get(item["name"], "95a5a6")
         badges.append(badge(item["name"], color))
     return " ".join(badges)
 
@@ -163,7 +173,7 @@ def build_readme(pages):
         name = get_title(props, "Name")
         print(f"  Processing [{i}] {name}")
 
-        type_badge  = get_select(props, "Type")
+        type_badge  = get_multi_select(props, "Type", TYPE_COLORS)
         date        = get_date(props, "Date")
         redo        = get_number(props, "Redo times")
         solved      = get_checkbox(props, "Solved on my own")
