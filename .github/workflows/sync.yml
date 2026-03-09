@@ -30,8 +30,8 @@ jobs:
 
       - name: Commit and push changes
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.name "LiSiruiRay"
+          git config user.email "${{ secrets.GIT_EMAIL }}"
           git add README.md images/
           git diff --cached --quiet || git commit -m "sync: update from Notion $(date -u +%Y-%m-%d)"
           git push
