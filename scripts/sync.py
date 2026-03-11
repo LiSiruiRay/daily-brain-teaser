@@ -145,6 +145,23 @@ def get_multi_select(props, key, color_map=None):
     return " ".join(badges)
 
 
+def get_slug(props):
+    """Get the Slug field — used to link to local questions/{slug}/question.md and answer.md."""
+    parts = props.get("Slug", {}).get("rich_text", [])
+    return "".join(p["plain_text"] for p in parts).strip()
+
+
+def get_local_links(slug):
+    """Return (question_link, answer_link) for local markdown files if they exist."""
+    if not slug:
+        return "", ""
+    q_path = REPO_ROOT / "questions" / slug / "question.md"
+    a_path = REPO_ROOT / "questions" / slug / "answer.md"
+    q_link = f"[view](questions/{slug}/question.md)" if q_path.exists() else ""
+    a_link = f"[view](questions/{slug}/answer.md)" if a_path.exists() else ""
+    return q_link, a_link
+
+
 def get_files(props, key, entry_name):
     files = props.get(key, {}).get("files", [])
     imgs = []
@@ -165,8 +182,8 @@ def build_readme(pages):
     lines.append("> Auto-synced from Notion. Last updated: "
                  + datetime.utcnow().strftime("%Y-%m-%d %H:%M UTC") + "\n")
     lines.append("")
-    lines.append("| # | Name | Type | Date | Redo | Solved | Preview | Answer | Related | Comments |")
-    lines.append("|---|------|------|------|------|--------|---------|--------|---------|----------|")
+    lines.append("| # | Name | Type | Date | Redo | Solved | Preview | Question | Answer | Related | Comments |")
+    lines.append("|---|------|------|------|------|--------|---------|----------|--------|---------|----------|")
 
     for i, page in enumerate(pages, 1):
         props = page["properties"]
@@ -178,11 +195,13 @@ def build_readme(pages):
         redo        = get_number(props, "Redo times")
         solved      = get_checkbox(props, "Solved on my own")
         preview     = get_files(props, "Files & media", name)
-        answer      = get_url(props, "answer")
+        slug        = get_slug(props)
+        local_q, local_a = get_local_links(slug)
+        answer      = local_a if local_a else get_url(props, "answer")
         related     = get_multi_select(props, "related")
         comments    = get_text(props, "comments")
 
-        row = f"| {i} | {name} | {type_badge} | {date} | {redo} | {solved} | {preview} | {answer} | {related} | {comments} |"
+        row = f"| {i} | {name} | {type_badge} | {date} | {redo} | {solved} | {preview} | {local_q} | {answer} | {related} | {comments} |"
         lines.append(row)
 
     lines.append("")
