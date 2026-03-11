@@ -1,11 +1,11 @@
 # Daily Brain Teaser
 
-> Auto-synced from Notion. Last updated: 2026-03-11 07:25 UTC
+> Auto-synced from Notion. Last updated: 2026-03-11 07:50 UTC
 
 
 | # | Name | Type | Date | Redo | Solved | Preview | Question | Answer | Related | Comments |
 |---|------|------|------|------|--------|---------|----------|--------|---------|----------|
-| 1 | test |  | 2026-03-11 |  |  |  | [view](questions/lp_norm_infinity/question.md) | [view](questions/lp_norm_infinity/answer.md) |  |  |
+| 1 | Expected Number of Records | ![Probability](https://img.shields.io/badge/Probability-95a5a6?style=flat-square) | 2026-03-11 |  |  |  | [view](questions/expected_records/question.md) | [view](questions/expected_records/answer.md) | ![Expectation](https://img.shields.io/badge/Expectation-95a5a6?style=flat-square) ![Permutation](https://img.shields.io/badge/Permutation-95a5a6?style=flat-square) ![Harmonic numbers](https://img.shields.io/badge/Harmonic%20numbers-95a5a6?style=flat-square) | same exact question in ICMT, very interesting, redo needed |
 | 2 | compact + hausdorff = unique limit | ![topology](https://img.shields.io/badge/topology-95a5a6?style=flat-square) | 2026-03-10 |  |  | <img src='images/compact___hausdorff___unique_limit_0.png' width='80'> |  | [link](https://chatgpt.com/g/g-p-69abc8db02c08191826dfb3a4713af23/c/69afdb46-ebf4-832c-bac0-09f05fa2c12c) | ![Hausdorff](https://img.shields.io/badge/Hausdorff-95a5a6?style=flat-square) ![Compact](https://img.shields.io/badge/Compact-95a5a6?style=flat-square) ![Limit](https://img.shields.io/badge/Limit-2ecc71?style=flat-square) | interesting small question |
 | 3 | third isomorphism thm | ![algebra](https://img.shields.io/badge/algebra-95a5a6?style=flat-square) | 2026-03-10 |  |  | <img src='images/third_isomorphism_thm_0.png' width='80'> |  | [link](https://chatgpt.com/g/g-p-69abc8db02c08191826dfb3a4713af23-math-problem-picker/c/69afb39a-4a88-832b-93ae-e6b5c27b462e?tab=sources) | ![isomorphism theorem](https://img.shields.io/badge/isomorphism%20theorem-95a5a6?style=flat-square) | didn’t understand the answer, need redo |
 | 4 | Lp norm → infinity | ![analysis](https://img.shields.io/badge/analysis-9b59b6?style=flat-square) | 2026-03-09 |  |  | <img src='images/Lp_norm___infinity_0.png' width='80'> |  | [link](https://chatgpt.com/g/g-p-69abc8db02c08191826dfb3a4713af23-math-problem-picker/c/69ae7a52-c2e8-832a-9db9-9a3dbf5ed948) | ![L^p norm](https://img.shields.io/badge/L%5Ep%20norm-95a5a6?style=flat-square) ![Limit](https://img.shields.io/badge/Limit-2ecc71?style=flat-square) ![Lim inf/sup](https://img.shields.io/badge/Lim%20inf/sup-1abc9c?style=flat-square) ![Squeeze Theorem](https://img.shields.io/badge/Squeeze%20Theorem-e74c3c?style=flat-square) | interesting problem: 分析基本功 |
