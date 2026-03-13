@@ -182,6 +182,18 @@ def build_readme(pages):
     lines.append("> Auto-synced from Notion. Last updated: "
                  + datetime.utcnow().strftime("%Y-%m-%d %H:%M UTC") + "\n")
     lines.append("")
+    lines.append("## Problem Schedule\n")
+    lines.append("![Problem Schedule](readme_imgs/problem_arrange.png)\n")
+    lines.append("## Welcome")
+    lines.append("")
+    lines.append("This is a personal collection of small but beautiful mathematical problems — one a day, organized by topic.")
+    lines.append("Problems come from Putnam, olympiads, probability puzzles, integration bees, complex analysis, differential geometry, ML/stats, and more.")
+    lines.append("")
+    lines.append("**Contributions and feedback are welcome!** Feel free to open an issue or PR if you have a problem to suggest, a cleaner solution, or a correction.")
+    lines.append("")
+    lines.append("---")
+    lines.append("")
+    lines.append("## Problem List\n")
     lines.append("| # | Name | Type | Date | Redo | Solved | Preview | Question | Answer | Related | Comments |")
     lines.append("|---|------|------|------|------|--------|---------|----------|--------|---------|----------|")
 

@@ -2,6 +2,20 @@
 
 > Auto-synced from Notion. Last updated: 2026-03-13 06:50 UTC
 
+## Problem Schedule
+
+![Problem Schedule](readme_imgs/problem_arrange.png)
+
+## Welcome
+
+This is a personal collection of small but beautiful mathematical problems — one a day, organized by topic.
+Problems come from Putnam, olympiads, probability puzzles, integration bees, complex analysis, differential geometry, ML/stats, and more.
+
+**Contributions and feedback are welcome!** Feel free to open an issue or PR if you have a problem to suggest, a cleaner solution, or a correction.
+
+---
+
+## Problem List
 
 | # | Name | Type | Date | Redo | Solved | Preview | Question | Answer | Related | Comments |
 |---|------|------|------|------|--------|---------|----------|--------|---------|----------|
