@@ -9,3 +9,4 @@ A running summary of all brain teaser problems completed.
 | 3 | [Bertrand's Ballot Problem](bertrand_ballot/question.md) | Probability / Combinatorics | Ballot problem, Reflection principle, Counting paths | 2026-03-11 |
 | 4 | [The Schwarz Lemma](schwarz_lemma/question.md) | Complex Analysis | Maximum modulus principle, Holomorphic functions, Unit disk | 2026-03-12 |
 | 5 | [Parallel Transport on a Sphere](parallel_transport_sphere/question.md) | Differential Geometry | Parallel transport, Holonomy, Gauss-Bonnet, Curvature | 2026-03-12 |
+| 6 | [Polynomial with No Integer Roots](polynomial_no_integer_roots/question.md) | Putnam / Number Theory | Polynomials, Parity, Integer roots, Modular arithmetic | 2026-03-13 |
