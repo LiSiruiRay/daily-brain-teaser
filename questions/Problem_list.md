@@ -10,3 +10,4 @@ A running summary of all brain teaser problems completed.
 | 4 | [The Schwarz Lemma](schwarz_lemma/question.md) | Complex Analysis | Maximum modulus principle, Holomorphic functions, Unit disk | 2026-03-12 |
 | 5 | [Parallel Transport on a Sphere](parallel_transport_sphere/question.md) | Differential Geometry | Parallel transport, Holonomy, Gauss-Bonnet, Curvature | 2026-03-12 |
 | 6 | [Polynomial with No Integer Roots](polynomial_no_integer_roots/question.md) | Putnam / Number Theory | Polynomials, Parity, Integer roots, Modular arithmetic | 2026-03-13 |
+| 7 | [Harmonic Series Is Never an Integer](harmonic_not_integer/question.md) | Putnam / Number Theory | Harmonic series, Primes, Bertrand's postulate, LCM, Divisibility | 2026-03-13 |
