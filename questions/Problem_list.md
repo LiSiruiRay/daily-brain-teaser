@@ -12,3 +12,4 @@ A running summary of all brain teaser problems completed.
 | 6 | [Polynomial with No Integer Roots](polynomial_no_integer_roots/question.md) | Putnam / Number Theory | Polynomials, Parity, Integer roots, Modular arithmetic | 2026-03-13 |
 | 7 | [Harmonic Series Is Never an Integer](harmonic_not_integer/question.md) | Putnam / Number Theory | Harmonic series, Primes, Bertrand's postulate, LCM, Divisibility | 2026-03-13 |
 | 8 | [Integral of a Geometric Series](geometric_series_integral/question.md) | Integration | Geometric series, Interchange sum/integral, Logarithm | 2026-03-14 |
+| 9 | [Bertrand's Chord Paradox](bertrand_chord_paradox/question.md) | Probability / Foundations | Geometric probability, Measure, Paradox, Sample space | 2026-03-24 |
