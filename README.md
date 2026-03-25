@@ -1,6 +1,6 @@
 # Daily Brain Teaser
 
-> Auto-synced from Notion. Last updated: 2026-03-24 07:01 UTC
+> Auto-synced from Notion. Last updated: 2026-03-25 06:59 UTC
 
 
 ## Problem Schedule
@@ -20,7 +20,7 @@ Problems come from Putnam, olympiads, probability puzzles, integration bees, com
 
 | # | Name | Type | Date | Redo | Solved | Preview | Question | Answer | Related | Comments |
 |---|------|------|------|------|--------|---------|----------|--------|---------|----------|
-| 1 | Bertrand's Chord Paradox | ![Probability](https://img.shields.io/badge/Probability-95a5a6?style=flat-square) | 2026-03-24 |  |  |  | [view](questions/bertrand_chord_paradox/question.md) | [view](questions/bertrand_chord_paradox/answer.md) |  | very interesting, how distribution works under different space? Uniformly distributte on sqaure does not mean uniformly distribution on the circle that’s parametrized by that square |
+| 1 | Bertrand's Chord Paradox | ![Probability](https://img.shields.io/badge/Probability-95a5a6?style=flat-square) | 2026-03-24 |  |  |  | [view](questions/bertrand_chord_paradox/question.md) | [view](questions/bertrand_chord_paradox/answer.md) | ![probability distribution](https://img.shields.io/badge/probability%20distribution-95a5a6?style=flat-square) | very interesting, how distribution works under different space? Uniformly distributte on sqaure does not mean uniformly distribution on the circle that’s parametrized by that square |
 | 2 | Integral of a Geometric Series | ![Integration](https://img.shields.io/badge/Integration-blue?style=flat-square) | 2026-03-14 |  | ✅ |  | [view](questions/geometric_series_integral/question.md) | [view](questions/geometric_series_integral/answer.md) |  | not super difficult |
 | 3 | Harmonic Series Is Never an Integer | ![Putnam](https://img.shields.io/badge/Putnam-95a5a6?style=flat-square) | 2026-03-13 |  |  |  | [view](questions/harmonic_not_integer/question.md) | [view](questions/harmonic_not_integer/answer.md) | ![Harmonic series](https://img.shields.io/badge/Harmonic%20series-95a5a6?style=flat-square) ![Primes](https://img.shields.io/badge/Primes-95a5a6?style=flat-square) ![Bertrand's postulate](https://img.shields.io/badge/Bertrand%27s%20postulate-95a5a6?style=flat-square) ![LCM](https://img.shields.io/badge/LCM-95a5a6?style=flat-square) ![Divisibility](https://img.shields.io/badge/Divisibility-95a5a6?style=flat-square) | very interesting question, prime related |
 | 4 | Polynomial with No Integer Roots | ![Putnam](https://img.shields.io/badge/Putnam-95a5a6?style=flat-square) | 2026-03-13 |  |  |  | [view](questions/polynomial_no_integer_roots/question.md) | [view](questions/polynomial_no_integer_roots/answer.md) | ![number theory](https://img.shields.io/badge/number%20theory-95a5a6?style=flat-square) ![Polynomial](https://img.shields.io/badge/Polynomial-95a5a6?style=flat-square) | semi solved by my own, had steps not most strict, also used hint |
