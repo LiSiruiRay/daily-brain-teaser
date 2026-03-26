@@ -14,3 +14,4 @@ A running summary of all brain teaser problems completed.
 | 8 | [Integral of a Geometric Series](geometric_series_integral/question.md) | Integration | Geometric series, Interchange sum/integral, Logarithm | 2026-03-14 |
 | 9 | [Bertrand's Chord Paradox](bertrand_chord_paradox/question.md) | Probability / Foundations | Geometric probability, Measure, Paradox, Sample space | 2026-03-24 |
 | 10 | [The Hat Check Problem](derangement_hat_check/question.md) | Probability / Combinatorics | Derangements, Inclusion-exclusion, Permutations, $e$ | 2026-03-25 |
+| 11 | [FTA via Liouville's Theorem](fta_liouville/question.md) | Complex Analysis | Liouville, Entire functions, Fundamental theorem of algebra, Contradiction | 2026-03-26 |
