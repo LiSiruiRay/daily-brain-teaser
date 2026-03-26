@@ -15,3 +15,4 @@ A running summary of all brain teaser problems completed.
 | 9 | [Bertrand's Chord Paradox](bertrand_chord_paradox/question.md) | Probability / Foundations | Geometric probability, Measure, Paradox, Sample space | 2026-03-24 |
 | 10 | [The Hat Check Problem](derangement_hat_check/question.md) | Probability / Combinatorics | Derangements, Inclusion-exclusion, Permutations, $e$ | 2026-03-25 |
 | 11 | [FTA via Liouville's Theorem](fta_liouville/question.md) | Complex Analysis | Liouville, Entire functions, Fundamental theorem of algebra, Contradiction | 2026-03-26 |
+| 12 | [Curvature of an Embedded Torus](torus_curvature/question.md) | Differential Geometry | Gaussian curvature, Gauss-Bonnet, Euler characteristic, Compactness, Torus | 2026-03-26 |
