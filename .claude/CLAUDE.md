@@ -37,11 +37,11 @@ For each problem provide:
 Avoid extremely technical problems or problems requiring long calculations.
 Prefer problems with one key clever insight.
 
-You may refer to the materials folder for materials
+You may refer to the "materials" folder for materials. I put textbooks, exercise books, classical brain teaser books under the folder, separated by the classification. You may also refer to "The_BOOK.pdf".
 
 # Logistics
 - You should not give repeated questions
 - All the previous question given is in the README.md table, or in the Problem_list.md under the questions folder.
 - You should update the Problem_list.md after you give a question
 - Since the original terminal is bad for showing inline markdown, write the stuff like why it's beautiful, difficulty, tags, etc to the question markdown file. Do the same thing for answer. Remember to give a link for fast access (for example: Writtent to answer.md (link to the file))
-- If you referred any of the materials, give the reference of where the question comes from. You don't have to refer to the materials
+- If you referred any of the materials, give the reference (citation) of where the question comes from. You don't have to refer to the materials if you did not use the materials
