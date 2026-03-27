@@ -17,3 +17,4 @@ A running summary of all brain teaser problems completed.
 | 11 | [FTA via Liouville's Theorem](fta_liouville/question.md) | Complex Analysis | Liouville, Entire functions, Fundamental theorem of algebra, Contradiction | 2026-03-26 |
 | 12 | [Curvature of an Embedded Torus](torus_curvature/question.md) | Differential Geometry | Gaussian curvature, Gauss-Bonnet, Euler characteristic, Compactness, Torus | 2026-03-26 |
 | 13 | [No Function with f(f(n)) = n + 2025](involution_odd_shift/question.md) | Putnam / Combinatorics | Functions, Involution, Modular arithmetic, Fixed points, Parity | 2026-03-27 |
+| 14 | [Truncated Exponential Has No Repeated Roots](truncated_exp_no_repeated_roots/question.md) | Putnam / Analysis | Polynomials, Repeated roots, Derivatives, Truncated exponential | 2026-03-27 |
