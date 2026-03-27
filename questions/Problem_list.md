@@ -16,3 +16,4 @@ A running summary of all brain teaser problems completed.
 | 10 | [The Hat Check Problem](derangement_hat_check/question.md) | Probability / Combinatorics | Derangements, Inclusion-exclusion, Permutations, $e$ | 2026-03-25 |
 | 11 | [FTA via Liouville's Theorem](fta_liouville/question.md) | Complex Analysis | Liouville, Entire functions, Fundamental theorem of algebra, Contradiction | 2026-03-26 |
 | 12 | [Curvature of an Embedded Torus](torus_curvature/question.md) | Differential Geometry | Gaussian curvature, Gauss-Bonnet, Euler characteristic, Compactness, Torus | 2026-03-26 |
+| 13 | [No Function with f(f(n)) = n + 2025](involution_odd_shift/question.md) | Putnam / Combinatorics | Functions, Involution, Modular arithmetic, Fixed points, Parity | 2026-03-27 |
