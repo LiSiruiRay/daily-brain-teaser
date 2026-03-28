@@ -18,3 +18,4 @@ A running summary of all brain teaser problems completed.
 | 12 | [Curvature of an Embedded Torus](torus_curvature/question.md) | Differential Geometry | Gaussian curvature, Gauss-Bonnet, Euler characteristic, Compactness, Torus | 2026-03-26 |
 | 13 | [No Function with f(f(n)) = n + 2025](involution_odd_shift/question.md) | Putnam / Combinatorics | Functions, Involution, Modular arithmetic, Fixed points, Parity | 2026-03-27 |
 | 14 | [Truncated Exponential Has No Repeated Roots](truncated_exp_no_repeated_roots/question.md) | Putnam / Analysis | Polynomials, Repeated roots, Derivatives, Truncated exponential | 2026-03-27 |
+| 15 | [Integral of $x^2 \sin(x)$](integral_x2_sinx/question.md) | Integration | Integration by parts, Tabular method, Trigonometric integrals | 2026-03-28 |
