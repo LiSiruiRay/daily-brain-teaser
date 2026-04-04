@@ -21,3 +21,4 @@ A running summary of all brain teaser problems completed.
 | 15 | [Integral of $x^2 \sin(x)$](integral_x2_sinx/question.md) | Integration | Integration by parts, Tabular method, Trigonometric integrals | 2026-03-28 |
 | 16 | [Stein's Paradox](steins_paradox/question.md) | Statistics / ML | Admissibility, James-Stein, Shrinkage, Stein's identity, MSE, Regularization | 2026-03-29 |
 | 17 | [Orthogonality to All Monomials Forces Zero](orthogonal_to_polynomials/question.md) | Real Analysis | Weierstrass approximation, Orthogonality, Density argument, $L^2$ | 2026-03-30 |
+| 18 | [Consecutive Subsum Divisible by n](consecutive_sum_divisible/question.md) | Putnam / Combinatorics | Pigeonhole, Partial sums, Divisibility, Modular arithmetic | 2026-04-03 |
