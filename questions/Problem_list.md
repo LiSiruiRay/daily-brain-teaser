@@ -25,3 +25,4 @@ A running summary of all brain teaser problems completed.
 | 19 | [Integral of $(x-1)^2/(2e^x+x^2+1)$](integral_x_minus_1_sq/question.md) | Integration | Logarithmic derivative, Integration bee, Algebraic manipulation | 2026-04-04 |
 | 20 | [Continuous but Nowhere Differentiable](continuous_nowhere_differentiable/question.md) | Real Analysis | Weierstrass function, Uniform convergence, M-test, Counterexample, Fractal | 2026-04-06 |
 | 21 | [Why LASSO Gives Sparsity but Ridge Does Not](lasso_vs_ridge_sparsity/question.md) | Statistics / ML | LASSO, Ridge, Sparsity, Regularization, Convex geometry, Constraint regions | 2026-04-19 |
+| 22 | [The Cantor Set: Measure Zero yet Uncountable](cantor_set_measure_zero/question.md) | Real Analysis | Cantor set, Measure theory, Cardinality, Uncountability, Nowhere dense | 2026-04-20 |
