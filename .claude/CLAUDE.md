@@ -45,3 +45,4 @@ You may refer to the "materials" folder for materials. I put textbooks, exercise
 - You should update the Problem_list.md after you give a question
 - Since the original terminal is bad for showing inline markdown, write the stuff like why it's beautiful, difficulty, tags, etc to the question markdown file. Do the same thing for answer. Remember to give a link for fast access (for example: Writtent to answer.md (link to the file))
 - If you referred any of the materials, give the reference (citation) of where the question comes from. You don't have to refer to the materials if you did not use the materials
+- It is important to build intuition. So always give high level intuition to the approach/answer to the question before diving into the formal regorous answer
