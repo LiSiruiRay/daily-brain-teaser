@@ -28,3 +28,4 @@ A running summary of all brain teaser problems completed.
 | 22 | [The Cantor Set: Measure Zero yet Uncountable](cantor_set_measure_zero/question.md) | Real Analysis | Cantor set, Measure theory, Cardinality, Uncountability, Nowhere dense | 2026-04-20 |
 | 23 | [The Topologist's Sine Curve](topologist_sine_curve/question.md) | Topology | Connectedness, Path-connectedness, Closure, Counterexample | 2026-04-21 |
 | 24 | [Entire Function with Non-Negative Real Part](entire_positive_real_part/question.md) | Complex Analysis | Entire functions, Liouville, Möbius transformation, Bounded functions | 2026-04-23 |
+| 25 | [An Impossible Integer Polynomial](polynomial_integer_values/question.md) | Putnam / Number Theory | Polynomials, Integer coefficients, Divisibility, Modular arithmetic | 2026-04-24 |
