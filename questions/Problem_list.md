@@ -29,3 +29,5 @@ A running summary of all brain teaser problems completed.
 | 23 | [The Topologist's Sine Curve](topologist_sine_curve/question.md) | Topology | Connectedness, Path-connectedness, Closure, Counterexample | 2026-04-21 |
 | 24 | [Entire Function with Non-Negative Real Part](entire_positive_real_part/question.md) | Complex Analysis | Entire functions, Liouville, Möbius transformation, Bounded functions | 2026-04-23 |
 | 25 | [An Impossible Integer Polynomial](polynomial_integer_values/question.md) | Putnam / Number Theory | Polynomials, Integer coefficients, Divisibility, Modular arithmetic | 2026-04-24 |
+| 26 | [Integral of a Max with a Circle](integral_max_circle/question.md) | Integration / Geometry | Integration bee, Geometric interpretation, Circular segment, Area | 2026-04-25 |
+
