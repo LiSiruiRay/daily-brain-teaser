@@ -32,3 +32,4 @@ Index of all brain teaser problems. Metadata (type, tags, solved, comments, etc.
 | 26 | [Integral of a Max with a Circle](integral_max_circle/question.md) | 2026-04-25 |
 | 27 | [Dini's Theorem: When Pointwise Becomes Uniform](dini_theorem/question.md) | 2026-04-25 |
 | 28 | [Fundamental Group of the Circle Is ℤ](2026-05-05_am/question.md) | 2026-05-05 |
+| 29 | [The Comb Space Is Not Locally Connected](2026-05-05_pm/question.md) | 2026-05-05 |
