@@ -48,7 +48,7 @@ jobs:
       - name: Commit and push
         run: |
           git config user.name "LiSiruiRay"
-          git config user.email "sl9625@nyu.edu"
+          git config user.email "LiSiruiRay@outlook.com"
           git add questions/ README.md
           git diff --cached --quiet || git commit -m "auto: $(date -u +%Y-%m-%d) ${{ steps.slot.outputs.value }} question"
           git push
