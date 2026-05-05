@@ -1,5 +1,18 @@
-.env
+# Python
 __pycache__/
 *.pyc
+*.pyo
+.env
+
+# Next.js
+web/.next/
+web/node_modules/
+web/out/
+web/.vercel/
+
+# macOS
 .DS_Store
-.vscode
+
+# Editor
+.vscode/
+*.swp
