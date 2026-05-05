@@ -1,3 +1,13 @@
+---
+name: "Bertrand's Chord Paradox"
+type: "Probability"
+tags: ["Geometric probability", "Measure", "Paradox", "Sample space"]
+date: "2026-03-24"
+solved: false
+comments: ""
+related: []
+redo: 0
+---
 # Bertrand's Chord Paradox
 
 ## Problem

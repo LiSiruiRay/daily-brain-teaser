@@ -1,3 +1,13 @@
+---
+name: "Continuous but Nowhere Differentiable"
+type: "analysis"
+tags: ["Weierstrass function", "Uniform convergence", "Counterexample", "Fractal"]
+date: "2026-04-06"
+solved: false
+comments: ""
+related: []
+redo: 0
+---
 # A Continuous but Nowhere Differentiable Function
 
 ## Problem

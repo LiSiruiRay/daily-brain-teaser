@@ -1,9 +1,14 @@
+---
+name: "Integral of a Max with a Circle"
+type: "Integration"
+tags: ["Integration bee", "Geometric interpretation", "Circular segment", "Area"]
+date: "2026-04-25"
+solved: false
+comments: ""
+related: []
+redo: 0
+---
 # Integral of a Max with a Circle
-
-**Type:** Integration / Geometry
-**Tags:** Integration bee, Geometric interpretation, Circular segment, Area
-**Date:** 2026-04-25
-**Difficulty:** 2/5
 
 ---
 

@@ -1,3 +1,13 @@
+---
+name: "Curvature of an Embedded Torus"
+type: "Differential Geometry"
+tags: ["Gaussian curvature", "Gauss-Bonnet", "Euler characteristic", "Torus"]
+date: "2026-03-26"
+solved: false
+comments: ""
+related: []
+redo: 0
+---
 # Curvature of an Embedded Torus
 
 ## Problem

@@ -1,3 +1,13 @@
+---
+name: "Integral of x² sin(x)"
+type: "Integration"
+tags: ["Integration by parts", "Tabular method", "Trigonometric integrals"]
+date: "2026-03-28"
+solved: false
+comments: ""
+related: []
+redo: 0
+---
 # Integral of $x^2 \sin(x)$
 
 ## Problem

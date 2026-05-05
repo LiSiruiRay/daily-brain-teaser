@@ -1,3 +1,13 @@
+---
+name: "Truncated Exponential Has No Repeated Roots"
+type: "Putnam"
+tags: ["Polynomials", "Repeated roots", "Derivatives", "Truncated exponential"]
+date: "2026-03-27"
+solved: false
+comments: ""
+related: []
+redo: 0
+---
 # Truncated Exponential Has No Repeated Roots
 
 ## Problem

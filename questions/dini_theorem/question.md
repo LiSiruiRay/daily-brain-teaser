@@ -1,9 +1,14 @@
+---
+name: "Dini's Theorem: When Pointwise Becomes Uniform"
+type: "analysis"
+tags: ["Uniform convergence", "Pointwise convergence", "Compactness", "Dini"]
+date: "2026-04-25"
+solved: false
+comments: ""
+related: []
+redo: 0
+---
 # Dini's Theorem: When Pointwise Becomes Uniform
-
-**Type:** Real Analysis
-**Tags:** Uniform convergence, Pointwise convergence, Compactness, Dini, Continuity
-**Date:** 2026-04-25
-**Difficulty:** 2/5
 
 ---
 

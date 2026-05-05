@@ -1,3 +1,13 @@
+---
+name: "Consecutive Subsum Divisible by n"
+type: "Putnam"
+tags: ["Pigeonhole", "Partial sums", "Divisibility", "Modular arithmetic"]
+date: "2026-04-03"
+solved: false
+comments: ""
+related: []
+redo: 0
+---
 # Consecutive Subsum Divisible by $n$
 
 ## Problem

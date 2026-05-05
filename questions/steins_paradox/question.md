@@ -1,3 +1,13 @@
+---
+name: "Stein's Paradox"
+type: "ML/Stats"
+tags: ["Admissibility", "James-Stein", "Shrinkage", "MSE", "Regularization"]
+date: "2026-03-29"
+solved: false
+comments: ""
+related: []
+redo: 0
+---
 # Stein's Paradox
 
 ## Problem

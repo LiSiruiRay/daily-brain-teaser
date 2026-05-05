@@ -1,8 +1,14 @@
+---
+name: "Expected Number of Records"
+type: "Probability"
+tags: ["Expectation", "Linearity of expectation", "Permutations", "Harmonic numbers"]
+date: "2026-03-11"
+solved: false
+comments: ""
+related: []
+redo: 0
+---
 # Expected Number of Records
-
-**Type:** Probability / Combinatorics
-**Tags:** Expectation, Linearity of expectation, Permutations, Harmonic numbers
-**Date:** 2026-03-11
 
 ---
 

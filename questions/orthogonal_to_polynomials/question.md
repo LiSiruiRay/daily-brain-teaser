@@ -1,3 +1,13 @@
+---
+name: "Orthogonality to All Monomials Forces Zero"
+type: "analysis"
+tags: ["Weierstrass approximation", "Orthogonality", "Density argument", "L2"]
+date: "2026-03-30"
+solved: false
+comments: ""
+related: []
+redo: 0
+---
 # Orthogonality to All Monomials Forces Zero
 
 ## Problem

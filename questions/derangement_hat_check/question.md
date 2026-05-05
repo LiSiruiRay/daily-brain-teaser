@@ -1,3 +1,13 @@
+---
+name: "The Hat Check Problem"
+type: "Probability"
+tags: ["Derangements", "Inclusion-exclusion", "Permutations"]
+date: "2026-03-25"
+solved: false
+comments: ""
+related: []
+redo: 0
+---
 # The Hat Check Problem (Derangements)
 
 ## Problem

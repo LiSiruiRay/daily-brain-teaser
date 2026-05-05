@@ -1,9 +1,14 @@
+---
+name: "Harmonic Series Is Never an Integer"
+type: "Putnam"
+tags: ["Harmonic series", "Primes", "Bertrand's postulate", "LCM", "Divisibility"]
+date: "2026-03-13"
+solved: false
+comments: ""
+related: []
+redo: 0
+---
 # The Harmonic Series Is Never an Integer
-
-**Type:** Putnam / Number Theory
-**Tags:** Harmonic series, Primes, Bertrand's postulate, LCM, Divisibility
-**Date:** 2026-03-13
-**Difficulty:** 3/5
 
 **Why it's beautiful:**
 $H_n = 1 + \frac{1}{2} + \frac{1}{3} + \cdots + \frac{1}{n}$ grows without bound, so you might expect it to eventually hit an integer. It never does (for $n \geq 2$). The proof uses a clever "lonely prime" argument: there is always one prime that appears exactly once in the denominators, and that prime poisons the entire sum, preventing it from being an integer.

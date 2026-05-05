@@ -1,12 +1,14 @@
-name: Sync Notion → README
+name: Build README
 
 on:
-  schedule:
-    - cron: "0 6 * * 1"   # runs every Monday at 6am UTC
-  workflow_dispatch:        # lets you trigger it manually from GitHub UI
+  push:
+    branches: [main]
+    paths:
+      - "questions/**"
+  workflow_dispatch:
 
 jobs:
-  sync:
+  build:
     runs-on: ubuntu-latest
     permissions:
       contents: write
@@ -19,19 +21,13 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Install dependencies
-        run: pip install requests python-dotenv
-
-      - name: Run sync script
-        env:
-          NOTION_TOKEN: ${{ secrets.NOTION_TOKEN }}
-          NOTION_DATABASE_ID: ${{ secrets.NOTION_DATABASE_ID }}
+      - name: Build README
         run: python scripts/sync.py
 
-      - name: Commit and push changes
+      - name: Commit and push
         run: |
           git config user.name "LiSiruiRay"
-          git config user.email "${{ secrets.GIT_EMAIL }}"
-          git add README.md images/
-          git diff --cached --quiet || git commit -m "sync: update from Notion $(date -u +%Y-%m-%d)"
+          git config user.email "sl9625@nyu.edu"
+          git add README.md
+          git diff --cached --quiet || git commit -m "sync: rebuild README $(date -u +%Y-%m-%d)"
           git push

@@ -1,3 +1,13 @@
+---
+name: "An Impossible Integer Polynomial"
+type: "Putnam"
+tags: ["Polynomials", "Integer coefficients", "Divisibility", "Modular arithmetic"]
+date: "2026-04-24"
+solved: false
+comments: ""
+related: []
+redo: 0
+---
 # Problem: An Impossible Integer Polynomial
 
 ## Problem Statement

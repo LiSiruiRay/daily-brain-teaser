@@ -1,3 +1,13 @@
+---
+name: "Entire Function with Non-Negative Real Part"
+type: "Complex Analysis"
+tags: ["Entire functions", "Liouville", "Mobius transformation", "Bounded functions"]
+date: "2026-04-23"
+solved: false
+comments: ""
+related: []
+redo: 0
+---
 # Problem: An Entire Function with Non-Negative Real Part
 
 ## Problem Statement

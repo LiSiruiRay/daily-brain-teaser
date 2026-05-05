@@ -1,3 +1,13 @@
+---
+name: "Integral of (x-1)²/(2eˣ+x²+1)"
+type: "Integration"
+tags: ["Logarithmic derivative", "Integration bee", "Algebraic manipulation"]
+date: "2026-04-04"
+solved: false
+comments: ""
+related: []
+redo: 0
+---
 # Integral of $(x-1)^2 / (2e^x + x^2 + 1)$
 
 ## Problem

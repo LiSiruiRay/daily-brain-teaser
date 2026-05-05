@@ -1,9 +1,14 @@
+---
+name: "The Cantor Set: Measure Zero yet Uncountable"
+type: "analysis"
+tags: ["Cantor set", "Measure theory", "Cardinality", "Uncountability"]
+date: "2026-04-20"
+solved: false
+comments: ""
+related: []
+redo: 0
+---
 # The Cantor Set: Measure Zero yet Uncountable
-
-**Type:** Real Analysis
-**Tags:** Cantor set, Measure theory, Cardinality, Uncountability, Nowhere dense
-**Date:** 2026-04-20
-**Difficulty:** 2/5
 
 ---
 

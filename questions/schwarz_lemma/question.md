@@ -1,9 +1,14 @@
+---
+name: "The Schwarz Lemma"
+type: "Complex Analysis"
+tags: ["Maximum modulus principle", "Holomorphic functions", "Unit disk"]
+date: "2026-03-12"
+solved: false
+comments: ""
+related: []
+redo: 0
+---
 # The Schwarz Lemma
-
-**Type:** Complex Analysis
-**Tags:** Maximum modulus principle, Holomorphic functions, Unit disk, Conformal maps
-**Date:** 2026-03-12
-**Difficulty:** 3/5
 
 **Why it's beautiful:**
 The Schwarz Lemma says that any holomorphic self-map of the unit disk fixing the origin must be a *contraction* — it can only shrink distances. And the only maps that preserve distances exactly are rotations. The proof uses just one trick: divide by $z$ and apply the maximum modulus principle. Short, surprising, and foundational in complex analysis.

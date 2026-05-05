@@ -1,9 +1,14 @@
+---
+name: "Parallel Transport on a Sphere"
+type: "Differential Geometry"
+tags: ["Parallel transport", "Holonomy", "Gauss-Bonnet", "Curvature"]
+date: "2026-03-12"
+solved: false
+comments: ""
+related: []
+redo: 0
+---
 # Parallel Transport on a Sphere
-
-**Type:** Differential Geometry
-**Tags:** Parallel transport, Holonomy, Gauss-Bonnet, Geodesics, Curvature
-**Date:** 2026-03-12
-**Difficulty:** 3/5
 
 **Why it's beautiful:**
 This problem makes curvature *visible*. On a flat plane, if you carry a vector around any closed loop keeping it "straight" the whole time, it comes back unchanged. On a sphere, it doesn't — and the angle it rotates by is a direct measurement of the curvature enclosed. The answer connects to the Gauss-Bonnet theorem and explains a real-world phenomenon: the Foucault pendulum.

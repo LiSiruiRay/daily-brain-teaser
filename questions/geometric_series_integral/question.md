@@ -1,3 +1,13 @@
+---
+name: "Integral of a Geometric Series"
+type: "Integration"
+tags: ["Geometric series", "Interchange sum/integral", "Logarithm"]
+date: "2026-03-14"
+solved: false
+comments: ""
+related: []
+redo: 0
+---
 # Integral of a Geometric Series
 
 ## Problem

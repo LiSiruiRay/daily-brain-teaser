@@ -1,8 +1,14 @@
+---
+name: "Lp Norm → L∞"
+type: "analysis"
+tags: ["Lp norm", "Limit", "Squeeze Theorem"]
+date: "2026-03-09"
+solved: false
+comments: ""
+related: []
+redo: 0
+---
 # $L^p$ Norm $\to$ $L^\infty$
-
-**Type:** Analysis
-**Tags:** $L^p$ norm, Limit, Squeeze Theorem
-**Date:** 2026-03-09
 
 ---
 

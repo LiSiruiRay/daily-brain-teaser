@@ -1,9 +1,14 @@
+---
+name: "Bertrand's Ballot Problem"
+type: "Probability"
+tags: ["Ballot problem", "Reflection principle", "Counting paths"]
+date: "2026-03-11"
+solved: false
+comments: ""
+related: []
+redo: 0
+---
 # Bertrand's Ballot Problem
-
-**Type:** Probability / Combinatorics
-**Tags:** Ballot problem, Reflection principle, Counting paths, Combinatorics
-**Date:** 2026-03-11
-**Difficulty:** 3/5
 
 **Why it's beautiful:**
 The answer is shockingly clean — just $(a - b)/(a + b)$ — and the proof uses a gorgeous geometric trick called the **reflection principle**: you count "bad" paths by reflecting them into "good" paths, creating a perfect bijection.

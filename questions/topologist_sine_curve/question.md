@@ -1,9 +1,14 @@
+---
+name: "The Topologist's Sine Curve"
+type: "topology"
+tags: ["Connectedness", "Path-connectedness", "Closure", "Counterexample"]
+date: "2026-04-21"
+solved: false
+comments: ""
+related: []
+redo: 0
+---
 # The Topologist's Sine Curve
-
-**Type:** Topology
-**Tags:** Connectedness, Path-connectedness, Closure, Counterexample, Topological spaces
-**Date:** 2026-04-21
-**Difficulty:** 3/5
 
 ---
 

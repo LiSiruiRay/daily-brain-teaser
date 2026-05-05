@@ -1,9 +1,14 @@
+---
+name: "Polynomial with No Integer Roots"
+type: "Putnam"
+tags: ["Polynomials", "Parity", "Integer roots", "Modular arithmetic"]
+date: "2026-03-13"
+solved: false
+comments: ""
+related: []
+redo: 0
+---
 # Polynomial with No Integer Roots
-
-**Type:** Putnam / Number Theory / Algebra
-**Tags:** Polynomials, Parity, Integer roots, Modular arithmetic
-**Date:** 2026-03-13
-**Difficulty:** 2/5
 
 **Why it's beautiful:**
 The statement sounds like it needs heavy machinery — but the entire proof fits in two lines and uses nothing but parity (odd/even). The trick is so simple it's surprising: you split into cases based on whether the root is odd or even, and in each case evaluate $p$ at a known point to get a contradiction. No computation, no degree arguments, just parity.

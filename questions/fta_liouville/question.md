@@ -1,3 +1,13 @@
+---
+name: "FTA via Liouville's Theorem"
+type: "Complex Analysis"
+tags: ["Liouville", "Entire functions", "Fundamental theorem of algebra"]
+date: "2026-03-26"
+solved: false
+comments: ""
+related: []
+redo: 0
+---
 # Fundamental Theorem of Algebra via Liouville
 
 ## Problem

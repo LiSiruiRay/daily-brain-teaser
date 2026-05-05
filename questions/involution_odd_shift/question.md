@@ -1,3 +1,13 @@
+---
+name: "No Function with f(f(n)) = n + 2025"
+type: "Putnam"
+tags: ["Functions", "Involution", "Modular arithmetic", "Fixed points", "Parity"]
+date: "2026-03-27"
+solved: false
+comments: ""
+related: []
+redo: 0
+---
 # No Function with $f(f(n)) = n + 2025$
 
 ## Problem

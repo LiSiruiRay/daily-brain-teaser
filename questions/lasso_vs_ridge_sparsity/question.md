@@ -1,9 +1,14 @@
+---
+name: "Why LASSO Gives Sparsity but Ridge Does Not"
+type: "ML/Stats"
+tags: ["LASSO", "Ridge", "Sparsity", "Regularization", "Convex geometry"]
+date: "2026-04-19"
+solved: false
+comments: ""
+related: []
+redo: 0
+---
 # Why Does LASSO Produce Sparse Solutions but Ridge Does Not?
-
-**Type:** Statistics / ML
-**Tags:** LASSO, Ridge, Sparsity, Regularization, Convex geometry, Constraint regions
-**Date:** 2026-04-19
-**Difficulty:** 2/5
 
 ---
 
