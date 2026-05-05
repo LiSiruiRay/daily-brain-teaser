@@ -1,0 +1,54 @@
+name: Generate Brain Teaser
+
+on:
+  schedule:
+    - cron: "0 9 * * *"    # ~4am ET (9am UTC ≈ 4am EST / 5am EDT)
+    - cron: "0 21 * * *"   # ~4pm ET (9pm UTC ≈ 4pm EST / 5pm EDT)
+  workflow_dispatch:
+    inputs:
+      slot:
+        description: "Slot to generate (am or pm)"
+        required: false
+        default: "am"
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install anthropic pypdf
+
+      - name: Determine slot from UTC hour
+        id: slot
+        run: |
+          HOUR=$(date -u +%H)
+          if [ "$HOUR" -lt 15 ]; then
+            echo "value=am" >> $GITHUB_OUTPUT
+          else
+            echo "value=pm" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Generate question
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          SLOT: ${{ github.event.inputs.slot || steps.slot.outputs.value }}
+        run: python scripts/generate_question.py ${{ github.event.inputs.slot || steps.slot.outputs.value }}
+
+      - name: Commit and push
+        run: |
+          git config user.name "LiSiruiRay"
+          git config user.email "sl9625@nyu.edu"
+          git add questions/ README.md
+          git diff --cached --quiet || git commit -m "auto: $(date -u +%Y-%m-%d) ${{ steps.slot.outputs.value }} question"
+          git push
