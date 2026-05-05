@@ -31,3 +31,4 @@ Index of all brain teaser problems. Metadata (type, tags, solved, comments, etc.
 | 25 | [An Impossible Integer Polynomial](polynomial_integer_values/question.md) | 2026-04-24 |
 | 26 | [Integral of a Max with a Circle](integral_max_circle/question.md) | 2026-04-25 |
 | 27 | [Dini's Theorem: When Pointwise Becomes Uniform](dini_theorem/question.md) | 2026-04-25 |
+| 28 | [Fundamental Group of the Circle Is ℤ](2026-05-05_am/question.md) | 2026-05-05 |
