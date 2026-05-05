@@ -1,25 +1,14 @@
+// Server-only: uses Node.js `fs`. Never import this in a "use client" component.
 import fs from "fs";
 import path from "path";
 import matter from "gray-matter";
+import type { Question } from "./types";
+
+export type { Question } from "./types";
+export { typeColor, TYPE_COLOR } from "./types";
 
 // questions/ lives one level above web/
 const QUESTIONS_DIR = path.join(process.cwd(), "..", "questions");
-
-export interface Question {
-  slug: string;
-  name: string;
-  type: string;
-  tags: string[];
-  date: string;
-  difficulty: number;
-  solved: boolean;
-  comments: string;
-  related: string[];
-  redo: number;
-  source: string;
-  questionContent: string;
-  answerContent: string;
-}
 
 function parseFrontmatter(filePath: string): { data: Record<string, unknown>; content: string } {
   if (!fs.existsSync(filePath)) return { data: {}, content: "" };
@@ -38,16 +27,16 @@ export function getQuestion(slug: string): Question | null {
 
   return {
     slug,
-    name:            (fm.name as string)     ?? slug,
-    type:            (fm.type as string)     ?? "",
-    tags:            (fm.tags as string[])   ?? [],
-    date:            (fm.date as string)     ?? "",
+    name:            (fm.name as string)      ?? slug,
+    type:            (fm.type as string)      ?? "",
+    tags:            (fm.tags as string[])    ?? [],
+    date:            (fm.date as string)      ?? "",
     difficulty:      (fm.difficulty as number) ?? 0,
-    solved:          (fm.solved as boolean)  ?? false,
-    comments:        (fm.comments as string) ?? "",
+    solved:          (fm.solved as boolean)   ?? false,
+    comments:        (fm.comments as string)  ?? "",
     related:         (fm.related as string[]) ?? [],
-    redo:            (fm.redo as number)     ?? 0,
-    source:          (fm.source as string)   ?? "",
+    redo:            (fm.redo as number)      ?? 0,
+    source:          (fm.source as string)    ?? "",
     questionContent: qContent,
     answerContent:   aContent,
   };
@@ -71,7 +60,6 @@ export function getAllQuestions(): Question[] {
     .sort((a, b) => b.date.localeCompare(a.date));
 }
 
-/** Today's date in New York time as YYYY-MM-DD */
 function todayET(): string {
   return new Date().toLocaleDateString("en-CA", { timeZone: "America/New_York" });
 }
@@ -82,20 +70,4 @@ export function getTodayQuestions(): { am: Question | null; pm: Question | null 
     am: getQuestion(`${today}_am`),
     pm: getQuestion(`${today}_pm`),
   };
-}
-
-export const TYPE_COLOR: Record<string, string> = {
-  "Integration":            "bg-blue-100 text-blue-800",
-  "ML/Stats":               "bg-orange-100 text-orange-800",
-  "analysis":               "bg-purple-100 text-purple-800",
-  "algebra":                "bg-green-100 text-green-800",
-  "topology":               "bg-cyan-100 text-cyan-800",
-  "Probability":            "bg-yellow-100 text-yellow-800",
-  "Complex Analysis":       "bg-red-100 text-red-800",
-  "Differential Geometry":  "bg-pink-100 text-pink-800",
-  "Putnam":                 "bg-amber-100 text-amber-800",
-};
-
-export function typeColor(type: string): string {
-  return TYPE_COLOR[type] ?? "bg-gray-100 text-gray-700";
 }

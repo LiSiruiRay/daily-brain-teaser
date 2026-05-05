@@ -3,7 +3,7 @@
 import { useState } from "react";
 import Link from "next/link";
 import MathContent from "./MathContent";
-import { Question, typeColor } from "@/lib/questions";
+import { Question, typeColor } from "@/lib/types";
 
 interface Props {
   question: Question;
