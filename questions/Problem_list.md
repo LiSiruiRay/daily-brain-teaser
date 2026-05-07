@@ -36,3 +36,4 @@ Index of all brain teaser problems. Metadata (type, tags, solved, comments, etc.
 | 30 | [Coupon Collector Problem](2026-05-06_am/question.md) | 2026-05-06 |
 | 31 | [Gambler's Ruin: Probability and Expected Duration](2026-05-06_pm/question.md) | 2026-05-06 |
 | 32 | [Rouché's Theorem: Zeros of z⁵+3z+1](2026-05-07_am/question.md) | 2026-05-07 |
+| 33 | [Entire Function Avoiding a Disk Must Be Constant](2026-05-07_pm/question.md) | 2026-05-07 |
