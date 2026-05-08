@@ -38,3 +38,4 @@ Index of all brain teaser problems. Metadata (type, tags, solved, comments, etc.
 | 32 | [Rouché's Theorem: Zeros of z⁵+3z+1](2026-05-07_am/question.md) | 2026-05-07 |
 | 33 | [Entire Function Avoiding a Disk Must Be Constant](2026-05-07_pm/question.md) | 2026-05-07 |
 | 34 | [Ordered Triples of Sets Covering {1,...,10}](2026-05-08_am/question.md) | 2026-05-08 |
+| 35 | [Pigeonhole on an Icosahedron](2026-05-08_pm/question.md) | 2026-05-08 |
