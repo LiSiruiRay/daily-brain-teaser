@@ -39,3 +39,4 @@ Index of all brain teaser problems. Metadata (type, tags, solved, comments, etc.
 | 33 | [Entire Function Avoiding a Disk Must Be Constant](2026-05-07_pm/question.md) | 2026-05-07 |
 | 34 | [Ordered Triples of Sets Covering {1,...,10}](2026-05-08_am/question.md) | 2026-05-08 |
 | 35 | [Pigeonhole on an Icosahedron](2026-05-08_pm/question.md) | 2026-05-08 |
+| 36 | [The Gaussian Integral's Elegant Cousin](2026-05-09_am/question.md) | 2026-05-09 |
