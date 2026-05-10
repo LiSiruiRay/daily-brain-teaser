@@ -41,3 +41,4 @@ Index of all brain teaser problems. Metadata (type, tags, solved, comments, etc.
 | 35 | [Pigeonhole on an Icosahedron](2026-05-08_pm/question.md) | 2026-05-08 |
 | 36 | [The Gaussian Integral's Elegant Cousin](2026-05-09_am/question.md) | 2026-05-09 |
 | 37 | [Integral of ln(sin x)](2026-05-09_pm/question.md) | 2026-05-09 |
+| 38 | [Optimism of Training Error](2026-05-10_am/question.md) | 2026-05-10 |
