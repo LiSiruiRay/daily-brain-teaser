@@ -44,3 +44,4 @@ Index of all brain teaser problems. Metadata (type, tags, solved, comments, etc.
 | 38 | [Optimism of Training Error](2026-05-10_am/question.md) | 2026-05-10 |
 | 39 | [Bias-Variance Decomposition](2026-05-10_pm/question.md) | 2026-05-10 |
 | 40 | [Dirichlet Function and Lebesgue Measure Zero](2026-05-11_am/question.md) | 2026-05-11 |
+| 41 | [Nowhere-Zero Derivative Paradox](2026-05-11_pm/question.md) | 2026-05-11 |
