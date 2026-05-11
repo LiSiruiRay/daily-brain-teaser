@@ -43,3 +43,4 @@ Index of all brain teaser problems. Metadata (type, tags, solved, comments, etc.
 | 37 | [Integral of ln(sin x)](2026-05-09_pm/question.md) | 2026-05-09 |
 | 38 | [Optimism of Training Error](2026-05-10_am/question.md) | 2026-05-10 |
 | 39 | [Bias-Variance Decomposition](2026-05-10_pm/question.md) | 2026-05-10 |
+| 40 | [Dirichlet Function and Lebesgue Measure Zero](2026-05-11_am/question.md) | 2026-05-11 |
