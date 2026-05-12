@@ -46,3 +46,4 @@ Index of all brain teaser problems. Metadata (type, tags, solved, comments, etc.
 | 40 | [Dirichlet Function and Lebesgue Measure Zero](2026-05-11_am/question.md) | 2026-05-11 |
 | 41 | [Nowhere-Zero Derivative Paradox](2026-05-11_pm/question.md) | 2026-05-11 |
 | 42 | [Fundamental Group of the Torus via Van Kampen](2026-05-12_am/question.md) | 2026-05-12 |
+| 43 | [Klein Bottle Is Non-Orientable and Doesn't Embed in R³](2026-05-12_pm/question.md) | 2026-05-12 |
