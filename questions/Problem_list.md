@@ -48,3 +48,4 @@ Index of all brain teaser problems. Metadata (type, tags, solved, comments, etc.
 | 42 | [Fundamental Group of the Torus via Van Kampen](2026-05-12_am/question.md) | 2026-05-12 |
 | 43 | [Klein Bottle Is Non-Orientable and Doesn't Embed in R³](2026-05-12_pm/question.md) | 2026-05-12 |
 | 44 | [The Prisoner's Dilemma](2026-05-13_am/question.md) | 2026-05-13 |
+| 45 | [The Unfair Coin That Becomes Fair](2026-05-13_pm/question.md) | 2026-05-13 |
