@@ -50,3 +50,4 @@ Index of all brain teaser problems. Metadata (type, tags, solved, comments, etc.
 | 44 | [The Prisoner's Dilemma](2026-05-13_am/question.md) | 2026-05-13 |
 | 45 | [The Unfair Coin That Becomes Fair](2026-05-13_pm/question.md) | 2026-05-13 |
 | 46 | [Argument Principle: Zeros in an Annulus](2026-05-14_am/question.md) | 2026-05-14 |
+| 47 | [Residue at Infinity and the Sum Rule](2026-05-14_pm/question.md) | 2026-05-14 |
