@@ -53,3 +53,4 @@ Index of all brain teaser problems. Metadata (type, tags, solved, comments, etc.
 | 47 | [Residue at Infinity and the Sum Rule](2026-05-14_pm/question.md) | 2026-05-14 |
 | 48 | [A Polynomial That Takes the Value 1 Too Often](2026-05-15_am/question.md) | 2026-05-15 |
 | 49 | [The Basel-Flavored Integral](2026-05-16_am/question.md) | 2026-05-16 |
+| 50 | [Sophomore's Dream Integral](2026-05-16_pm/question.md) | 2026-05-16 |
