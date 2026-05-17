@@ -54,3 +54,4 @@ Index of all brain teaser problems. Metadata (type, tags, solved, comments, etc.
 | 48 | [A Polynomial That Takes the Value 1 Too Often](2026-05-15_am/question.md) | 2026-05-15 |
 | 49 | [The Basel-Flavored Integral](2026-05-16_am/question.md) | 2026-05-16 |
 | 50 | [Sophomore's Dream Integral](2026-05-16_pm/question.md) | 2026-05-16 |
+| 51 | [Variance of OLS Along Singular Directions and Ridge Shrinkage](2026-05-17_pm/question.md) | 2026-05-17 |
