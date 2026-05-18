@@ -55,3 +55,4 @@ Index of all brain teaser problems. Metadata (type, tags, solved, comments, etc.
 | 49 | [The Basel-Flavored Integral](2026-05-16_am/question.md) | 2026-05-16 |
 | 50 | [Sophomore's Dream Integral](2026-05-16_pm/question.md) | 2026-05-16 |
 | 51 | [Variance of OLS Along Singular Directions and Ridge Shrinkage](2026-05-17_pm/question.md) | 2026-05-17 |
+| 52 | [Weierstrass Series: Continuity via Abel Summation](2026-05-18_am/question.md) | 2026-05-18 |
