@@ -58,3 +58,4 @@ Index of all brain teaser problems. Metadata (type, tags, solved, comments, etc.
 | 52 | [Weierstrass Series: Continuity via Abel Summation](2026-05-18_am/question.md) | 2026-05-18 |
 | 53 | [Vanishing Integral on All Measurable Sets](2026-05-18_pm/question.md) | 2026-05-18 |
 | 54 | [Baire Category: Q Is Not a G-delta](2026-05-19_am/question.md) | 2026-05-19 |
+| 55 | [Hairy Ball Theorem via Degree Theory](2026-05-19_pm/question.md) | 2026-05-19 |
