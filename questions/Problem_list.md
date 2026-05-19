@@ -57,3 +57,4 @@ Index of all brain teaser problems. Metadata (type, tags, solved, comments, etc.
 | 51 | [Variance of OLS Along Singular Directions and Ridge Shrinkage](2026-05-17_pm/question.md) | 2026-05-17 |
 | 52 | [Weierstrass Series: Continuity via Abel Summation](2026-05-18_am/question.md) | 2026-05-18 |
 | 53 | [Vanishing Integral on All Measurable Sets](2026-05-18_pm/question.md) | 2026-05-18 |
+| 54 | [Baire Category: Q Is Not a G-delta](2026-05-19_am/question.md) | 2026-05-19 |
