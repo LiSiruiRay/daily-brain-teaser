@@ -62,3 +62,4 @@ Index of all brain teaser problems. Metadata (type, tags, solved, comments, etc.
 | 56 | [The First Ace](2026-05-20_am/question.md) | 2026-05-20 |
 | 57 | [Broken Bar Triangle Probability](2026-05-20_pm/question.md) | 2026-05-20 |
 | 58 | [Logarithmic Derivative and Integrality of Winding](2026-05-21_am/question.md) | 2026-05-21 |
+| 59 | [Open Mapping + Liouville: Dense Image of Entire Functions](2026-05-21_pm/question.md) | 2026-05-21 |
