@@ -66,3 +66,4 @@ Index of all brain teaser problems. Metadata (type, tags, solved, comments, etc.
 | 60 | [Sum of Squares Under a Linear Constraint](2026-05-22_pm/question.md) | 2026-05-22 |
 | 61 | [Integral of ln(1+x²)/(1+x²)](2026-05-23_pm/question.md) | 2026-05-23 |
 | 62 | [The Double Descent Puzzle](2026-05-24_am/question.md) | 2026-05-24 |
+| 63 | [The Variance of Bagging](2026-05-24_pm/question.md) | 2026-05-24 |
