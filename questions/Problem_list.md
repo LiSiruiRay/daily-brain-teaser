@@ -69,3 +69,4 @@ Index of all brain teaser problems. Metadata (type, tags, solved, comments, etc.
 | 63 | [The Variance of Bagging](2026-05-24_pm/question.md) | 2026-05-24 |
 | 64 | [Lebesgue Differentiation: Failure Everywhere?](2026-05-25_am/question.md) | 2026-05-25 |
 | 65 | [Zero-Mean Functions: A Closed Hyperplane in C([0,1])](2026-05-25_pm/question.md) | 2026-05-25 |
+| 66 | [Möbius Band Has Fundamental Group ℤ](2026-05-26_pm/question.md) | 2026-05-26 |
