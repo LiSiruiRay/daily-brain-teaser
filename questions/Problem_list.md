@@ -71,3 +71,4 @@ Index of all brain teaser problems. Metadata (type, tags, solved, comments, etc.
 | 65 | [Zero-Mean Functions: A Closed Hyperplane in C([0,1])](2026-05-25_pm/question.md) | 2026-05-25 |
 | 66 | [Möbius Band Has Fundamental Group ℤ](2026-05-26_pm/question.md) | 2026-05-26 |
 | 67 | [Ballot Problem: Strictly Leading Throughout](2026-05-27_am/question.md) | 2026-05-27 |
+| 68 | [The Collector's Last Coupon](2026-05-27_pm/question.md) | 2026-05-27 |
