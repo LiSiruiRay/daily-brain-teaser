@@ -72,3 +72,4 @@ Index of all brain teaser problems. Metadata (type, tags, solved, comments, etc.
 | 66 | [Möbius Band Has Fundamental Group ℤ](2026-05-26_pm/question.md) | 2026-05-26 |
 | 67 | [Ballot Problem: Strictly Leading Throughout](2026-05-27_am/question.md) | 2026-05-27 |
 | 68 | [The Collector's Last Coupon](2026-05-27_pm/question.md) | 2026-05-27 |
+| 69 | [Winding Number Is Always an Integer](2026-05-28_pm/question.md) | 2026-05-28 |
