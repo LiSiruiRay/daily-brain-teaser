@@ -74,3 +74,4 @@ Index of all brain teaser problems. Metadata (type, tags, solved, comments, etc.
 | 68 | [The Collector's Last Coupon](2026-05-27_pm/question.md) | 2026-05-27 |
 | 69 | [Winding Number Is Always an Integer](2026-05-28_pm/question.md) | 2026-05-28 |
 | 70 | [Can A² + B² Be Invertible?](2026-05-29_am/question.md) | 2026-05-29 |
+| 71 | [A Determinant of Sums](2026-05-29_pm/question.md) | 2026-05-29 |
