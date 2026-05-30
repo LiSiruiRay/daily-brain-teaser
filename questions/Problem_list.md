@@ -76,3 +76,4 @@ Index of all brain teaser problems. Metadata (type, tags, solved, comments, etc.
 | 70 | [Can A² + B² Be Invertible?](2026-05-29_am/question.md) | 2026-05-29 |
 | 71 | [A Determinant of Sums](2026-05-29_pm/question.md) | 2026-05-29 |
 | 72 | [Integral of x^n ln x and Basel](2026-05-30_am/question.md) | 2026-05-30 |
+| 73 | [Fresnel-Flavored Integral](2026-05-30_pm/question.md) | 2026-05-30 |
