@@ -80,3 +80,4 @@ Index of all brain teaser problems. Metadata (type, tags, solved, comments, etc.
 | 74 | [Curse of Dimensionality: Shell Concentration](2026-05-31_am/question.md) | 2026-05-31 |
 | 75 | [The Blessing of Averaging: Boosting Margins](2026-05-31_pm/question.md) | 2026-05-31 |
 | 76 | [Two Integral Conditions Force Two Zeros](2026-06-01_pm/question.md) | 2026-06-01 |
+| 77 | [Fundamental Group of S¹ ∨ S¹ Is Non-Abelian](2026-06-02_am/question.md) | 2026-06-02 |
