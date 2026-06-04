@@ -85,3 +85,4 @@ Index of all brain teaser problems. Metadata (type, tags, solved, comments, etc.
 | 79 | [The Thick Coin](2026-06-03_am/question.md) | 2026-06-03 |
 | 80 | [Cycle Lemma: Staying Strictly Ahead](2026-06-03_pm/question.md) | 2026-06-03 |
 | 81 | [Maximum Modulus & Schwarz Equality Case](2026-06-04_am/question.md) | 2026-06-04 |
+| 82 | [A Holomorphic Function That Is Its Own Derivative](2026-06-04_pm/question.md) | 2026-06-04 |
