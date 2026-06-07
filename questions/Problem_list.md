@@ -88,3 +88,4 @@ Index of all brain teaser problems. Metadata (type, tags, solved, comments, etc.
 | 82 | [A Holomorphic Function That Is Its Own Derivative](2026-06-04_pm/question.md) | 2026-06-04 |
 | 83 | [Functional Equation: From Symmetry to a Difference](2026-06-05_am/question.md) | 2026-06-05 |
 | 84 | [Feynman's Trick: arctan(x)/x and Catalan's Constant](2026-06-06_am/question.md) | 2026-06-06 |
+| 85 | [The Kernel Trick: Why Inner Products Are All You Need](2026-06-07_am/question.md) | 2026-06-07 |
