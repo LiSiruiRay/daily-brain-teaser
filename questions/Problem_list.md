@@ -91,3 +91,4 @@ Index of all brain teaser problems. Metadata (type, tags, solved, comments, etc.
 | 85 | [The Kernel Trick: Why Inner Products Are All You Need](2026-06-07_am/question.md) | 2026-06-07 |
 | 86 | [Optimism of Training Error and the LOO Shortcut](2026-06-07_pm/question.md) | 2026-06-07 |
 | 87 | [Riemann–Lebesgue Lemma](2026-06-08_am/question.md) | 2026-06-08 |
+| 88 | [Monotone Convergence Fails for Decreasing Sequences Without Integrability](2026-06-08_pm/question.md) | 2026-06-08 |
