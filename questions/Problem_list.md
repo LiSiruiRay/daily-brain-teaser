@@ -95,3 +95,4 @@ Index of all brain teaser problems. Metadata (type, tags, solved, comments, etc.
 | 89 | [Fundamental Group of S¹ ∨ S²](2026-06-09_am/question.md) | 2026-06-09 |
 | 90 | [Hawaiian Earring Is Not Semi-Locally Simply Connected](2026-06-09_pm/question.md) | 2026-06-09 |
 | 91 | [HH vs HT: Waiting Times for Coin Patterns](2026-06-10_am/question.md) | 2026-06-10 |
+| 92 | [Second-Best Runner-Up](2026-06-10_pm/question.md) | 2026-06-10 |
