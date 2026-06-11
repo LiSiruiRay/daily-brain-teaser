@@ -97,3 +97,4 @@ Index of all brain teaser problems. Metadata (type, tags, solved, comments, etc.
 | 91 | [HH vs HT: Waiting Times for Coin Patterns](2026-06-10_am/question.md) | 2026-06-10 |
 | 92 | [Second-Best Runner-Up](2026-06-10_pm/question.md) | 2026-06-10 |
 | 93 | [Gauss–Lucas Theorem](2026-06-11_am/question.md) | 2026-06-11 |
+| 94 | [Möbius Transformation Fixed by Three Points](2026-06-11_pm/question.md) | 2026-06-11 |
