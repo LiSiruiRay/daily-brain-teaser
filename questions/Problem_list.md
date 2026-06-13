@@ -99,3 +99,4 @@ Index of all brain teaser problems. Metadata (type, tags, solved, comments, etc.
 | 93 | [Gauss–Lucas Theorem](2026-06-11_am/question.md) | 2026-06-11 |
 | 94 | [Möbius Transformation Fixed by Three Points](2026-06-11_pm/question.md) | 2026-06-11 |
 | 95 | [A Sequence That Always Hits a Perfect Square](2026-06-12_am/question.md) | 2026-06-12 |
+| 96 | [Integral of sqrt(tan x)](2026-06-13_am/question.md) | 2026-06-13 |
