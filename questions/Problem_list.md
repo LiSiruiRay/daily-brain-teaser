@@ -101,3 +101,4 @@ Index of all brain teaser problems. Metadata (type, tags, solved, comments, etc.
 | 95 | [A Sequence That Always Hits a Perfect Square](2026-06-12_am/question.md) | 2026-06-12 |
 | 96 | [Integral of sqrt(tan x)](2026-06-13_am/question.md) | 2026-06-13 |
 | 97 | [The King's Integral](2026-06-13_pm/question.md) | 2026-06-13 |
+| 98 | [The Infinite Ensemble That Doesn't Help](2026-06-14_am/question.md) | 2026-06-14 |
