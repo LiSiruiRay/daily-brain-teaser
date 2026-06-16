@@ -104,3 +104,4 @@ Index of all brain teaser problems. Metadata (type, tags, solved, comments, etc.
 | 98 | [The Infinite Ensemble That Doesn't Help](2026-06-14_am/question.md) | 2026-06-14 |
 | 99 | [Curse of Dimensionality: Volume Collapse](2026-06-14_pm/question.md) | 2026-06-14 |
 | 100 | [Alternating Series Beyond the M-Test](2026-06-15_pm/question.md) | 2026-06-15 |
+| 101 | [The Dunce Hat Is Contractible](2026-06-16_am/question.md) | 2026-06-16 |
