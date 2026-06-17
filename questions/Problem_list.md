@@ -106,3 +106,4 @@ Index of all brain teaser problems. Metadata (type, tags, solved, comments, etc.
 | 100 | [Alternating Series Beyond the M-Test](2026-06-15_pm/question.md) | 2026-06-15 |
 | 101 | [The Dunce Hat Is Contractible](2026-06-16_am/question.md) | 2026-06-16 |
 | 102 | [2026-06-16_pm](2026-06-16_pm/question.md) | 2026-06-16 |
+| 103 | [The Collector's Rival: Who Finishes First?](2026-06-17_am/question.md) | 2026-06-17 |
