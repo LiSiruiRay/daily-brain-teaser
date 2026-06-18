@@ -108,3 +108,4 @@ Index of all brain teaser problems. Metadata (type, tags, solved, comments, etc.
 | 102 | [2026-06-16_pm](2026-06-16_pm/question.md) | 2026-06-16 |
 | 103 | [The Collector's Rival: Who Finishes First?](2026-06-17_am/question.md) | 2026-06-17 |
 | 104 | [The Absent-Minded Secretary](2026-06-17_pm/question.md) | 2026-06-17 |
+| 105 | [Argument of a Product Along a Circle](2026-06-18_am/question.md) | 2026-06-18 |
