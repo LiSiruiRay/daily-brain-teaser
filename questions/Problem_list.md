@@ -110,3 +110,4 @@ Index of all brain teaser problems. Metadata (type, tags, solved, comments, etc.
 | 104 | [The Absent-Minded Secretary](2026-06-17_pm/question.md) | 2026-06-17 |
 | 105 | [Argument of a Product Along a Circle](2026-06-18_am/question.md) | 2026-06-18 |
 | 106 | [Schwarz–Pick Lemma: Holomorphic Maps Contract the Disk](2026-06-18_pm/question.md) | 2026-06-18 |
+| 107 | [Shanille's Free Throws: Pólya Urn Surprise](2026-06-19_am/question.md) | 2026-06-19 |
