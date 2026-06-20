@@ -112,3 +112,4 @@ Index of all brain teaser problems. Metadata (type, tags, solved, comments, etc.
 | 106 | [Schwarz–Pick Lemma: Holomorphic Maps Contract the Disk](2026-06-18_pm/question.md) | 2026-06-18 |
 | 107 | [Shanille's Free Throws: Pólya Urn Surprise](2026-06-19_am/question.md) | 2026-06-19 |
 | 108 | [The Beta-Flavored Integral](2026-06-20_am/question.md) | 2026-06-20 |
+| 109 | [The Sinc Integral](2026-06-20_pm/question.md) | 2026-06-20 |
