@@ -113,3 +113,4 @@ Index of all brain teaser problems. Metadata (type, tags, solved, comments, etc.
 | 107 | [Shanille's Free Throws: Pólya Urn Surprise](2026-06-19_am/question.md) | 2026-06-19 |
 | 108 | [The Beta-Flavored Integral](2026-06-20_am/question.md) | 2026-06-20 |
 | 109 | [The Sinc Integral](2026-06-20_pm/question.md) | 2026-06-20 |
+| 110 | [KDE Bandwidth Bias-Variance Tradeoff](2026-06-21_am/question.md) | 2026-06-21 |
