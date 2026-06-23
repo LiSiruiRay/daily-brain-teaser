@@ -117,3 +117,4 @@ Index of all brain teaser problems. Metadata (type, tags, solved, comments, etc.
 | 111 | [SVM Margin Width: Why 2/‖β‖?](2026-06-21_pm/question.md) | 2026-06-21 |
 | 112 | [Devil's Staircase: FTC Fails Without Absolute Continuity](2026-06-22_pm/question.md) | 2026-06-22 |
 | 113 | [Hawaiian Earring vs Infinite Wedge: Compact vs Not](2026-06-23_am/question.md) | 2026-06-23 |
+| 114 | [Suspension Kills Fundamental Group](2026-06-23_pm/question.md) | 2026-06-23 |
