@@ -119,3 +119,4 @@ Index of all brain teaser problems. Metadata (type, tags, solved, comments, etc.
 | 113 | [Hawaiian Earring vs Infinite Wedge: Compact vs Not](2026-06-23_am/question.md) | 2026-06-23 |
 | 114 | [Suspension Kills Fundamental Group](2026-06-23_pm/question.md) | 2026-06-23 |
 | 115 | [Expected Runs of Heads](2026-06-24_am/question.md) | 2026-06-24 |
+| 116 | [The Matching Birthdays: Expected Collisions](2026-06-24_pm/question.md) | 2026-06-24 |
