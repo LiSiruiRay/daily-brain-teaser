@@ -123,3 +123,4 @@ Index of all brain teaser problems. Metadata (type, tags, solved, comments, etc.
 | 117 | [Riemann's Removable Singularity via zf(z)→0](2026-06-25_pm/question.md) | 2026-06-25 |
 | 118 | [A Square Vanishing Function Must Be Identically Zero](2026-06-26_pm/question.md) | 2026-06-26 |
 | 119 | [Integral of ln(sin x) via Symmetry](2026-06-27_am/question.md) | 2026-06-27 |
+| 120 | [Wallis-Type Product Integral](2026-06-27_pm/question.md) | 2026-06-27 |
