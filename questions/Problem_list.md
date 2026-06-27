@@ -122,3 +122,4 @@ Index of all brain teaser problems. Metadata (type, tags, solved, comments, etc.
 | 116 | [The Matching Birthdays: Expected Collisions](2026-06-24_pm/question.md) | 2026-06-24 |
 | 117 | [Riemann's Removable Singularity via zf(z)→0](2026-06-25_pm/question.md) | 2026-06-25 |
 | 118 | [A Square Vanishing Function Must Be Identically Zero](2026-06-26_pm/question.md) | 2026-06-26 |
+| 119 | [Integral of ln(sin x) via Symmetry](2026-06-27_am/question.md) | 2026-06-27 |
