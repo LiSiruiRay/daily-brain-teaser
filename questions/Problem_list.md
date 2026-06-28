@@ -125,3 +125,4 @@ Index of all brain teaser problems. Metadata (type, tags, solved, comments, etc.
 | 119 | [Integral of ln(sin x) via Symmetry](2026-06-27_am/question.md) | 2026-06-27 |
 | 120 | [Wallis-Type Product Integral](2026-06-27_pm/question.md) | 2026-06-27 |
 | 121 | [The Wisdom of Crowds: When Does Averaging Hurt?](2026-06-28_am/question.md) | 2026-06-28 |
+| 122 | [The Irrelevant Feature Paradox: When Adding Noise Helps OLS](2026-06-28_pm/question.md) | 2026-06-28 |
