@@ -126,3 +126,4 @@ Index of all brain teaser problems. Metadata (type, tags, solved, comments, etc.
 | 120 | [Wallis-Type Product Integral](2026-06-27_pm/question.md) | 2026-06-27 |
 | 121 | [The Wisdom of Crowds: When Does Averaging Hurt?](2026-06-28_am/question.md) | 2026-06-28 |
 | 122 | [The Irrelevant Feature Paradox: When Adding Noise Helps OLS](2026-06-28_pm/question.md) | 2026-06-28 |
+| 123 | [Conditionally Convergent Series of Functions: Pointwise but Not Uniform](2026-06-29_am/question.md) | 2026-06-29 |
