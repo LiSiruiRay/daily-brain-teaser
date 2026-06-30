@@ -128,3 +128,4 @@ Index of all brain teaser problems. Metadata (type, tags, solved, comments, etc.
 | 122 | [The Irrelevant Feature Paradox: When Adding Noise Helps OLS](2026-06-28_pm/question.md) | 2026-06-28 |
 | 123 | [Conditionally Convergent Series of Functions: Pointwise but Not Uniform](2026-06-29_am/question.md) | 2026-06-29 |
 | 124 | [The Integral That Knows Its Own Interval](2026-06-29_pm/question.md) | 2026-06-29 |
+| 125 | [Quotient of Interval Gives Circle](2026-06-30_am/question.md) | 2026-06-30 |
