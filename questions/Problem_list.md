@@ -133,3 +133,4 @@ Index of all brain teaser problems. Metadata (type, tags, solved, comments, etc.
 | 127 | [The Secretary Who Knows the Distribution](2026-07-01_am/question.md) | 2026-07-01 |
 | 128 | [The Gambler Who Can't Lose... Until He Does](2026-07-01_pm/question.md) | 2026-07-01 |
 | 129 | [Casorati–Weierstrass: Dense Image Near Essential Singularity](2026-07-02_pm/question.md) | 2026-07-02 |
+| 130 | [The Polynomial That Is Always Divisible by n!](2026-07-03_am/question.md) | 2026-07-03 |
