@@ -135,3 +135,4 @@ Index of all brain teaser problems. Metadata (type, tags, solved, comments, etc.
 | 129 | [Casorati–Weierstrass: Dense Image Near Essential Singularity](2026-07-02_pm/question.md) | 2026-07-02 |
 | 130 | [The Polynomial That Is Always Divisible by n!](2026-07-03_am/question.md) | 2026-07-03 |
 | 131 | [The Penny-Passing Game: Who Wins?](2026-07-03_pm/question.md) | 2026-07-03 |
+| 132 | [The Gaussian-Polynomial Integral](2026-07-04_am/question.md) | 2026-07-04 |
