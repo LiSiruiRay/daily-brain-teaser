@@ -137,3 +137,4 @@ Index of all brain teaser problems. Metadata (type, tags, solved, comments, etc.
 | 131 | [The Penny-Passing Game: Who Wins?](2026-07-03_pm/question.md) | 2026-07-03 |
 | 132 | [The Gaussian-Polynomial Integral](2026-07-04_am/question.md) | 2026-07-04 |
 | 133 | [Integral of 1/(1+tan^n x)](2026-07-04_pm/question.md) | 2026-07-04 |
+| 134 | [Curse of Dimensionality: Nearest Neighbor Bias](2026-07-05_am/question.md) | 2026-07-05 |
