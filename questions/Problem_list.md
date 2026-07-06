@@ -139,3 +139,4 @@ Index of all brain teaser problems. Metadata (type, tags, solved, comments, etc.
 | 133 | [Integral of 1/(1+tan^n x)](2026-07-04_pm/question.md) | 2026-07-04 |
 | 134 | [Curse of Dimensionality: Nearest Neighbor Bias](2026-07-05_am/question.md) | 2026-07-05 |
 | 135 | [Ridge Regression as Augmented OLS](2026-07-05_pm/question.md) | 2026-07-05 |
+| 136 | [Generic Continuous Function Is Nowhere Differentiable](2026-07-06_am/question.md) | 2026-07-06 |
