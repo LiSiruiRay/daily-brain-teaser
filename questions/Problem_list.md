@@ -141,3 +141,4 @@ Index of all brain teaser problems. Metadata (type, tags, solved, comments, etc.
 | 135 | [Ridge Regression as Augmented OLS](2026-07-05_pm/question.md) | 2026-07-05 |
 | 136 | [Generic Continuous Function Is Nowhere Differentiable](2026-07-06_am/question.md) | 2026-07-06 |
 | 137 | [Pointwise Limits and Meagre Discontinuity Sets](2026-07-06_pm/question.md) | 2026-07-06 |
+| 138 | [Collapsing Disk Boundary Gives Sphere](2026-07-07_am/question.md) | 2026-07-07 |
