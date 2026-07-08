@@ -143,3 +143,4 @@ Index of all brain teaser problems. Metadata (type, tags, solved, comments, etc.
 | 137 | [Pointwise Limits and Meagre Discontinuity Sets](2026-07-06_pm/question.md) | 2026-07-06 |
 | 138 | [Collapsing Disk Boundary Gives Sphere](2026-07-07_am/question.md) | 2026-07-07 |
 | 139 | [The Closed Subgroup of ℝ](2026-07-07_pm/question.md) | 2026-07-07 |
+| 140 | [The Lazy Prisoner: A Probability Paradox](2026-07-08_am/question.md) | 2026-07-08 |
