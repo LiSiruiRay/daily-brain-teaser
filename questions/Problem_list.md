@@ -144,3 +144,4 @@ Index of all brain teaser problems. Metadata (type, tags, solved, comments, etc.
 | 138 | [Collapsing Disk Boundary Gives Sphere](2026-07-07_am/question.md) | 2026-07-07 |
 | 139 | [The Closed Subgroup of ℝ](2026-07-07_pm/question.md) | 2026-07-07 |
 | 140 | [The Lazy Prisoner: A Probability Paradox](2026-07-08_am/question.md) | 2026-07-08 |
+| 141 | [The Ballot Box Surprise: Two Candidates, One Mystery](2026-07-08_pm/question.md) | 2026-07-08 |
