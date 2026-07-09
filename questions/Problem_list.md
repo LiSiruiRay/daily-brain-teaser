@@ -146,3 +146,4 @@ Index of all brain teaser problems. Metadata (type, tags, solved, comments, etc.
 | 140 | [The Lazy Prisoner: A Probability Paradox](2026-07-08_am/question.md) | 2026-07-08 |
 | 141 | [The Ballot Box Surprise: Two Candidates, One Mystery](2026-07-08_pm/question.md) | 2026-07-08 |
 | 142 | [The Zeros That Refuse to Accumulate](2026-07-09_am/question.md) | 2026-07-09 |
+| 143 | [The Harmonic Function That Knows Its Boundary](2026-07-09_pm/question.md) | 2026-07-09 |
