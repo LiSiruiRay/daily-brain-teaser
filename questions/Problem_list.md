@@ -148,3 +148,4 @@ Index of all brain teaser problems. Metadata (type, tags, solved, comments, etc.
 | 142 | [The Zeros That Refuse to Accumulate](2026-07-09_am/question.md) | 2026-07-09 |
 | 143 | [The Harmonic Function That Knows Its Boundary](2026-07-09_pm/question.md) | 2026-07-09 |
 | 144 | [A Polynomial Evaluated at Consecutive Integers](2026-07-10_am/question.md) | 2026-07-10 |
+| 145 | [The Tournament Bracket Paradox](2026-07-10_pm/question.md) | 2026-07-10 |
