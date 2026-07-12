@@ -151,3 +151,4 @@ Index of all brain teaser problems. Metadata (type, tags, solved, comments, etc.
 | 145 | [The Tournament Bracket Paradox](2026-07-10_pm/question.md) | 2026-07-10 |
 | 146 | [Integral of 1/(1+sin²x)](2026-07-11_am/question.md) | 2026-07-11 |
 | 147 | [The Dirichlet Beta Integral](2026-07-11_pm/question.md) | 2026-07-11 |
+| 148 | [AdaBoost Exponential Training Error Bound](2026-07-12_am/question.md) | 2026-07-12 |
