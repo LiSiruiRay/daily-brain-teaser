@@ -153,3 +153,4 @@ Index of all brain teaser problems. Metadata (type, tags, solved, comments, etc.
 | 147 | [The Dirichlet Beta Integral](2026-07-11_pm/question.md) | 2026-07-11 |
 | 148 | [AdaBoost Exponential Training Error Bound](2026-07-12_am/question.md) | 2026-07-12 |
 | 149 | [Precision Matrix and Partial Correlations](2026-07-12_pm/question.md) | 2026-07-12 |
+| 150 | [Frullani Integral: (e^{-x}-e^{-2x})/x](2026-07-13_am/question.md) | 2026-07-13 |
