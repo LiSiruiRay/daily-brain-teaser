@@ -155,3 +155,4 @@ Index of all brain teaser problems. Metadata (type, tags, solved, comments, etc.
 | 149 | [Precision Matrix and Partial Correlations](2026-07-12_pm/question.md) | 2026-07-12 |
 | 150 | [Frullani Integral: (e^{-x}-e^{-2x})/x](2026-07-13_am/question.md) | 2026-07-13 |
 | 151 | [Monotone Function with Countably Many Discontinuities](2026-07-13_pm/question.md) | 2026-07-13 |
+| 152 | [Fundamental Group of the Klein Bottle](2026-07-14_am/question.md) | 2026-07-14 |
