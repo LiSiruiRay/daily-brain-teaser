@@ -159,3 +159,4 @@ Index of all brain teaser problems. Metadata (type, tags, solved, comments, etc.
 | 153 | [Open Subgroups of Topological Groups Are Closed](2026-07-14_pm/question.md) | 2026-07-14 |
 | 154 | [The Pepys–Newton Problem](2026-07-15_am/question.md) | 2026-07-15 |
 | 155 | [The Shared Birthday Secretary](2026-07-15_pm/question.md) | 2026-07-15 |
+| 156 | [The Holomorphic Function Determined by Its Real Part](2026-07-16_am/question.md) | 2026-07-16 |
