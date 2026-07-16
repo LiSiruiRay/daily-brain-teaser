@@ -160,3 +160,4 @@ Index of all brain teaser problems. Metadata (type, tags, solved, comments, etc.
 | 154 | [The Pepys–Newton Problem](2026-07-15_am/question.md) | 2026-07-15 |
 | 155 | [The Shared Birthday Secretary](2026-07-15_pm/question.md) | 2026-07-15 |
 | 156 | [The Holomorphic Function Determined by Its Real Part](2026-07-16_am/question.md) | 2026-07-16 |
+| 157 | [Schwarz Reflection Principle via Morera](2026-07-16_pm/question.md) | 2026-07-16 |
