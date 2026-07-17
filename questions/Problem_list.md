@@ -162,3 +162,4 @@ Index of all brain teaser problems. Metadata (type, tags, solved, comments, etc.
 | 156 | [The Holomorphic Function Determined by Its Real Part](2026-07-16_am/question.md) | 2026-07-16 |
 | 157 | [Schwarz Reflection Principle via Morera](2026-07-16_pm/question.md) | 2026-07-16 |
 | 158 | [A Polynomial with Three Prescribed Values](2026-07-17_am/question.md) | 2026-07-17 |
+| 159 | [A Polynomial Vanishing on All Lattice Points in a Strip](2026-07-17_pm/question.md) | 2026-07-17 |
