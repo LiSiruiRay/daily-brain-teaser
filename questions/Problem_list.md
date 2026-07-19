@@ -166,3 +166,4 @@ Index of all brain teaser problems. Metadata (type, tags, solved, comments, etc.
 | 160 | [Integral of ln(1+x)/(1+x²) via Feynman](2026-07-18_am/question.md) | 2026-07-18 |
 | 161 | [Integral of ln(1+x)/(1+x²) via Feynman Self-Reference](2026-07-18_pm/question.md) | 2026-07-18 |
 | 162 | [Curse of Dimensionality: Nearest Neighbor Becomes Global](2026-07-19_am/question.md) | 2026-07-19 |
+| 163 | [Temperature Scaling and Softmax Saturation](2026-07-19_pm/question.md) | 2026-07-19 |
