@@ -165,3 +165,4 @@ Index of all brain teaser problems. Metadata (type, tags, solved, comments, etc.
 | 159 | [A Polynomial Vanishing on All Lattice Points in a Strip](2026-07-17_pm/question.md) | 2026-07-17 |
 | 160 | [Integral of ln(1+x)/(1+x²) via Feynman](2026-07-18_am/question.md) | 2026-07-18 |
 | 161 | [Integral of ln(1+x)/(1+x²) via Feynman Self-Reference](2026-07-18_pm/question.md) | 2026-07-18 |
+| 162 | [Curse of Dimensionality: Nearest Neighbor Becomes Global](2026-07-19_am/question.md) | 2026-07-19 |
