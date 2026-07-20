@@ -168,3 +168,4 @@ Index of all brain teaser problems. Metadata (type, tags, solved, comments, etc.
 | 162 | [Curse of Dimensionality: Nearest Neighbor Becomes Global](2026-07-19_am/question.md) | 2026-07-19 |
 | 163 | [Temperature Scaling and Softmax Saturation](2026-07-19_pm/question.md) | 2026-07-19 |
 | 164 | [The Integral That Oscillates Into Submission](2026-07-20_am/question.md) | 2026-07-20 |
+| 165 | [Dini's Theorem via Compactness](2026-07-20_pm/question.md) | 2026-07-20 |
