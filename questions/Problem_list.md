@@ -171,3 +171,4 @@ Index of all brain teaser problems. Metadata (type, tags, solved, comments, etc.
 | 165 | [Dini's Theorem via Compactness](2026-07-20_pm/question.md) | 2026-07-20 |
 | 166 | [Collapsing Square Boundary Gives Sphere](2026-07-21_am/question.md) | 2026-07-21 |
 | 167 | [The Quotient of a Torus by an Involution](2026-07-21_pm/question.md) | 2026-07-21 |
+| 168 | [Evening Sales: Poisson Parity via e^m + e^{-m}](2026-07-22_am/question.md) | 2026-07-22 |
