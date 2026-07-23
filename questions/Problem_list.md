@@ -173,3 +173,4 @@ Index of all brain teaser problems. Metadata (type, tags, solved, comments, etc.
 | 167 | [The Quotient of a Torus by an Involution](2026-07-21_pm/question.md) | 2026-07-21 |
 | 168 | [Evening Sales: Poisson Parity via e^m + e^{-m}](2026-07-22_am/question.md) | 2026-07-22 |
 | 169 | [The Craps Shooter's Odds](2026-07-22_pm/question.md) | 2026-07-22 |
+| 170 | [Infinite Product Telescoping to 2](2026-07-23_am/question.md) | 2026-07-23 |
