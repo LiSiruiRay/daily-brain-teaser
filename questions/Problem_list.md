@@ -175,3 +175,4 @@ Index of all brain teaser problems. Metadata (type, tags, solved, comments, etc.
 | 169 | [The Craps Shooter's Odds](2026-07-22_pm/question.md) | 2026-07-22 |
 | 170 | [Infinite Product Telescoping to 2](2026-07-23_am/question.md) | 2026-07-23 |
 | 171 | [The Cauchy Integral That Evaluates Itself](2026-07-23_pm/question.md) | 2026-07-23 |
+| 172 | [A Polynomial Taking Only Non-Negative Integer Values](2026-07-24_am/question.md) | 2026-07-24 |
