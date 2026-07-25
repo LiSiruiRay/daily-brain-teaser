@@ -177,3 +177,4 @@ Index of all brain teaser problems. Metadata (type, tags, solved, comments, etc.
 | 171 | [The Cauchy Integral That Evaluates Itself](2026-07-23_pm/question.md) | 2026-07-23 |
 | 172 | [A Polynomial Taking Only Non-Negative Integer Values](2026-07-24_am/question.md) | 2026-07-24 |
 | 173 | [The Gaussian Meets Its Reflection](2026-07-25_am/question.md) | 2026-07-25 |
+| 174 | [Integral of arctan(x)/x and Catalan's Constant](2026-07-25_pm/question.md) | 2026-07-25 |
