@@ -179,3 +179,4 @@ Index of all brain teaser problems. Metadata (type, tags, solved, comments, etc.
 | 173 | [The Gaussian Meets Its Reflection](2026-07-25_am/question.md) | 2026-07-25 |
 | 174 | [Integral of arctan(x)/x and Catalan's Constant](2026-07-25_pm/question.md) | 2026-07-25 |
 | 175 | [The Vanishing Gradient Plateau: Why Sigmoid Networks Saturate](2026-07-26_am/question.md) | 2026-07-26 |
+| 176 | [The SVM That Saw Only Dot Products](2026-07-26_pm/question.md) | 2026-07-26 |
