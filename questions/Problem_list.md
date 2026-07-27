@@ -181,3 +181,4 @@ Index of all brain teaser problems. Metadata (type, tags, solved, comments, etc.
 | 175 | [The Vanishing Gradient Plateau: Why Sigmoid Networks Saturate](2026-07-26_am/question.md) | 2026-07-26 |
 | 176 | [The SVM That Saw Only Dot Products](2026-07-26_pm/question.md) | 2026-07-26 |
 | 177 | [The Monotone Function That Isn't](2026-07-27_am/question.md) | 2026-07-27 |
+| 178 | [The Integrable Function Whose Integral Vanishes on Every Interval](2026-07-27_pm/question.md) | 2026-07-27 |
