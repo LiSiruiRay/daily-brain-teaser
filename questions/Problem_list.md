@@ -183,3 +183,4 @@ Index of all brain teaser problems. Metadata (type, tags, solved, comments, etc.
 | 177 | [The Monotone Function That Isn't](2026-07-27_am/question.md) | 2026-07-27 |
 | 178 | [The Integrable Function Whose Integral Vanishes on Every Interval](2026-07-27_pm/question.md) | 2026-07-27 |
 | 179 | [Open Identity Forces Discrete Topological Group](2026-07-28_am/question.md) | 2026-07-28 |
+| 180 | [Covering Space of Wedge of Circles Has Larger Fundamental Group](2026-07-28_pm/question.md) | 2026-07-28 |
