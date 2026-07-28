@@ -182,3 +182,4 @@ Index of all brain teaser problems. Metadata (type, tags, solved, comments, etc.
 | 176 | [The SVM That Saw Only Dot Products](2026-07-26_pm/question.md) | 2026-07-26 |
 | 177 | [The Monotone Function That Isn't](2026-07-27_am/question.md) | 2026-07-27 |
 | 178 | [The Integrable Function Whose Integral Vanishes on Every Interval](2026-07-27_pm/question.md) | 2026-07-27 |
+| 179 | [Open Identity Forces Discrete Topological Group](2026-07-28_am/question.md) | 2026-07-28 |
