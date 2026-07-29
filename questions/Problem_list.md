@@ -184,3 +184,4 @@ Index of all brain teaser problems. Metadata (type, tags, solved, comments, etc.
 | 178 | [The Integrable Function Whose Integral Vanishes on Every Interval](2026-07-27_pm/question.md) | 2026-07-27 |
 | 179 | [Open Identity Forces Discrete Topological Group](2026-07-28_am/question.md) | 2026-07-28 |
 | 180 | [Covering Space of Wedge of Circles Has Larger Fundamental Group](2026-07-28_pm/question.md) | 2026-07-28 |
+| 181 | [The Coin That Remembers Its Past](2026-07-29_am/question.md) | 2026-07-29 |
