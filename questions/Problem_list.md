@@ -185,3 +185,4 @@ Index of all brain teaser problems. Metadata (type, tags, solved, comments, etc.
 | 179 | [Open Identity Forces Discrete Topological Group](2026-07-28_am/question.md) | 2026-07-28 |
 | 180 | [Covering Space of Wedge of Circles Has Larger Fundamental Group](2026-07-28_pm/question.md) | 2026-07-28 |
 | 181 | [The Coin That Remembers Its Past](2026-07-29_am/question.md) | 2026-07-29 |
+| 182 | [The Lazy Drunk: Random Walk Returns in 2D vs 3D](2026-07-29_pm/question.md) | 2026-07-29 |
