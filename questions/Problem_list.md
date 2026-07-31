@@ -188,3 +188,4 @@ Index of all brain teaser problems. Metadata (type, tags, solved, comments, etc.
 | 182 | [The Lazy Drunk: Random Walk Returns in 2D vs 3D](2026-07-29_pm/question.md) | 2026-07-29 |
 | 183 | [Two Laurent Series for One Function](2026-07-30_am/question.md) | 2026-07-30 |
 | 184 | [The Conformal Map That Squares the Disk](2026-07-30_pm/question.md) | 2026-07-30 |
+| 185 | [Sums That Know Their Parts](2026-07-31_am/question.md) | 2026-07-31 |
