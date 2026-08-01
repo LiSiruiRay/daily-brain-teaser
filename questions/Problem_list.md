@@ -190,3 +190,4 @@ Index of all brain teaser problems. Metadata (type, tags, solved, comments, etc.
 | 184 | [The Conformal Map That Squares the Disk](2026-07-30_pm/question.md) | 2026-07-30 |
 | 185 | [Sums That Know Their Parts](2026-07-31_am/question.md) | 2026-07-31 |
 | 186 | [The Integral That Swaps Its Limits](2026-08-01_am/question.md) | 2026-08-01 |
+| 187 | [Integral of ln(x)/sqrt(x(1-x))](2026-08-01_pm/question.md) | 2026-08-01 |
