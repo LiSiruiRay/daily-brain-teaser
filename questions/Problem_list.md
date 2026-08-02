@@ -191,3 +191,4 @@ Index of all brain teaser problems. Metadata (type, tags, solved, comments, etc.
 | 185 | [Sums That Know Their Parts](2026-07-31_am/question.md) | 2026-07-31 |
 | 186 | [The Integral That Swaps Its Limits](2026-08-01_am/question.md) | 2026-08-01 |
 | 187 | [Integral of ln(x)/sqrt(x(1-x))](2026-08-01_pm/question.md) | 2026-08-01 |
+| 188 | [Naive Bayes Independence Violation: Wrong Probabilities, Right Decisions](2026-08-02_am/question.md) | 2026-08-02 |
