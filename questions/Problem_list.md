@@ -194,3 +194,4 @@ Index of all brain teaser problems. Metadata (type, tags, solved, comments, etc.
 | 188 | [Naive Bayes Independence Violation: Wrong Probabilities, Right Decisions](2026-08-02_am/question.md) | 2026-08-02 |
 | 189 | [PCA Reconstruction Error and Discarded Eigenvalues](2026-08-02_pm/question.md) | 2026-08-02 |
 | 190 | [The Function That Equalizes Its Own Averages](2026-08-03_am/question.md) | 2026-08-03 |
+| 191 | [Polynomials Dense: Orthogonality Forces Zero](2026-08-03_pm/question.md) | 2026-08-03 |
