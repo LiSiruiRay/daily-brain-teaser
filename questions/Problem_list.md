@@ -197,3 +197,4 @@ Index of all brain teaser problems. Metadata (type, tags, solved, comments, etc.
 | 191 | [Polynomials Dense: Orthogonality Forces Zero](2026-08-03_pm/question.md) | 2026-08-03 |
 | 192 | [Which Spheres Admit a Topological Group Structure?](2026-08-04_am/question.md) | 2026-08-04 |
 | 193 | [The Torus and the Annulus: A Quotient Surprise](2026-08-04_pm/question.md) | 2026-08-04 |
+| 194 | [The Sock Drawer Surprise](2026-08-05_am/question.md) | 2026-08-05 |
