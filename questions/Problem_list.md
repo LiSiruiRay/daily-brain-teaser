@@ -199,3 +199,4 @@ Index of all brain teaser problems. Metadata (type, tags, solved, comments, etc.
 | 193 | [The Torus and the Annulus: A Quotient Surprise](2026-08-04_pm/question.md) | 2026-08-04 |
 | 194 | [The Sock Drawer Surprise](2026-08-05_am/question.md) | 2026-08-05 |
 | 195 | [Gambler's Ruin: Martingale and Win Probability](2026-08-05_pm/question.md) | 2026-08-05 |
+| 196 | [Weierstrass Product Convergence and Logarithmic Derivative](2026-08-06_am/question.md) | 2026-08-06 |
