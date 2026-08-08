@@ -202,3 +202,4 @@ Index of all brain teaser problems. Metadata (type, tags, solved, comments, etc.
 | 196 | [Weierstrass Product Convergence and Logarithmic Derivative](2026-08-06_am/question.md) | 2026-08-06 |
 | 197 | [Integer-Valued Polynomials and the Binomial Basis](2026-08-07_pm/question.md) | 2026-08-07 |
 | 198 | [The Integral That Wants to Be a Probability](2026-08-08_am/question.md) | 2026-08-08 |
+| 199 | [Integral of 1/(1+tan^α x)](2026-08-08_pm/question.md) | 2026-08-08 |
