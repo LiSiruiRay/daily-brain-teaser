@@ -201,3 +201,4 @@ Index of all brain teaser problems. Metadata (type, tags, solved, comments, etc.
 | 195 | [Gambler's Ruin: Martingale and Win Probability](2026-08-05_pm/question.md) | 2026-08-05 |
 | 196 | [Weierstrass Product Convergence and Logarithmic Derivative](2026-08-06_am/question.md) | 2026-08-06 |
 | 197 | [Integer-Valued Polynomials and the Binomial Basis](2026-08-07_pm/question.md) | 2026-08-07 |
+| 198 | [The Integral That Wants to Be a Probability](2026-08-08_am/question.md) | 2026-08-08 |
