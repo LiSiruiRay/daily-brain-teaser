@@ -205,3 +205,4 @@ Index of all brain teaser problems. Metadata (type, tags, solved, comments, etc.
 | 199 | [Integral of 1/(1+tan^α x)](2026-08-08_pm/question.md) | 2026-08-08 |
 | 200 | [The Variance That Vanishes: Why PCA Features Are Uncorrelated](2026-08-09_am/question.md) | 2026-08-09 |
 | 201 | [The Ghost Feature: Useless Predictor Inflates OLS Variance](2026-08-09_pm/question.md) | 2026-08-09 |
+| 202 | [The Nowhere-Monotone Continuous Function](2026-08-10_am/question.md) | 2026-08-10 |
