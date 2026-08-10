@@ -206,3 +206,4 @@ Index of all brain teaser problems. Metadata (type, tags, solved, comments, etc.
 | 200 | [The Variance That Vanishes: Why PCA Features Are Uncorrelated](2026-08-09_am/question.md) | 2026-08-09 |
 | 201 | [The Ghost Feature: Useless Predictor Inflates OLS Variance](2026-08-09_pm/question.md) | 2026-08-09 |
 | 202 | [The Nowhere-Monotone Continuous Function](2026-08-10_am/question.md) | 2026-08-10 |
+| 203 | [Integral of the Cantor Function via Symmetry](2026-08-10_pm/question.md) | 2026-08-10 |
