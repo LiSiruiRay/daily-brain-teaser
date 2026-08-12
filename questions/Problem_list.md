@@ -210,3 +210,4 @@ Index of all brain teaser problems. Metadata (type, tags, solved, comments, etc.
 | 204 | [Torus Minus a Point Deformation Retracts onto Wedge](2026-08-11_am/question.md) | 2026-08-11 |
 | 205 | [Punctured Torus Has Free Fundamental Group](2026-08-11_pm/question.md) | 2026-08-11 |
 | 206 | [The Clumsy Chemist's Cousin: Breaking at Two Random Points](2026-08-12_am/question.md) | 2026-08-12 |
+| 207 | [The Envelope Paradox](2026-08-12_pm/question.md) | 2026-08-12 |
