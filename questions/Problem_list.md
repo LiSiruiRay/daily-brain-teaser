@@ -212,3 +212,4 @@ Index of all brain teaser problems. Metadata (type, tags, solved, comments, etc.
 | 206 | [The Clumsy Chemist's Cousin: Breaking at Two Random Points](2026-08-12_am/question.md) | 2026-08-12 |
 | 207 | [The Envelope Paradox](2026-08-12_pm/question.md) | 2026-08-12 |
 | 208 | [The Holomorphic Map That Fixes Too Many Points](2026-08-13_am/question.md) | 2026-08-13 |
+| 209 | [The Möbius Transformation That Sends the Real Line to Itself](2026-08-13_pm/question.md) | 2026-08-13 |
