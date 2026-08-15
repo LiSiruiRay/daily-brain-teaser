@@ -215,3 +215,4 @@ Index of all brain teaser problems. Metadata (type, tags, solved, comments, etc.
 | 209 | [The Möbius Transformation That Sends the Real Line to Itself](2026-08-13_pm/question.md) | 2026-08-13 |
 | 210 | [The Derivative That Divides 2016](2026-08-14_pm/question.md) | 2026-08-14 |
 | 211 | [Integral of 1/(1+tan^√2 x)](2026-08-15_am/question.md) | 2026-08-15 |
+| 212 | [The Integral That Hides a Telescoping Heart](2026-08-15_pm/question.md) | 2026-08-15 |
