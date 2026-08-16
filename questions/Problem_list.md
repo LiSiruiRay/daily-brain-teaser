@@ -217,3 +217,4 @@ Index of all brain teaser problems. Metadata (type, tags, solved, comments, etc.
 | 211 | [Integral of 1/(1+tan^√2 x)](2026-08-15_am/question.md) | 2026-08-15 |
 | 212 | [The Integral That Hides a Telescoping Heart](2026-08-15_pm/question.md) | 2026-08-15 |
 | 213 | [2026-08-16_am](2026-08-16_am/question.md) | 2026-08-16 |
+| 214 | [LDA Is Secretly Logistic Regression](2026-08-16_pm/question.md) | 2026-08-16 |
