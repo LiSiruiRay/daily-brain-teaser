@@ -218,3 +218,4 @@ Index of all brain teaser problems. Metadata (type, tags, solved, comments, etc.
 | 212 | [The Integral That Hides a Telescoping Heart](2026-08-15_pm/question.md) | 2026-08-15 |
 | 213 | [2026-08-16_am](2026-08-16_am/question.md) | 2026-08-16 |
 | 214 | [LDA Is Secretly Logistic Regression](2026-08-16_pm/question.md) | 2026-08-16 |
+| 215 | [The Integral That Knows Γ](2026-08-17_am/question.md) | 2026-08-17 |
