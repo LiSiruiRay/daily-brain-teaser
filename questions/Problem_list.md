@@ -220,3 +220,4 @@ Index of all brain teaser problems. Metadata (type, tags, solved, comments, etc.
 | 214 | [LDA Is Secretly Logistic Regression](2026-08-16_pm/question.md) | 2026-08-16 |
 | 215 | [The Integral That Knows Γ](2026-08-17_am/question.md) | 2026-08-17 |
 | 216 | [The Sinc Integral: Conditional but Not Absolute](2026-08-17_pm/question.md) | 2026-08-17 |
+| 217 | [Closed Disk Minus a Boundary Arc: Contractible?](2026-08-18_am/question.md) | 2026-08-18 |
