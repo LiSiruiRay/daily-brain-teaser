@@ -222,3 +222,4 @@ Index of all brain teaser problems. Metadata (type, tags, solved, comments, etc.
 | 216 | [The Sinc Integral: Conditional but Not Absolute](2026-08-17_pm/question.md) | 2026-08-17 |
 | 217 | [Closed Disk Minus a Boundary Arc: Contractible?](2026-08-18_am/question.md) | 2026-08-18 |
 | 218 | [The Sphere Is Simply Connected: A Covering Space Argument](2026-08-18_pm/question.md) | 2026-08-18 |
+| 219 | [The Absent Ticket Inspector](2026-08-19_am/question.md) | 2026-08-19 |
