@@ -224,3 +224,4 @@ Index of all brain teaser problems. Metadata (type, tags, solved, comments, etc.
 | 218 | [The Sphere Is Simply Connected: A Covering Space Argument](2026-08-18_pm/question.md) | 2026-08-18 |
 | 219 | [The Absent Ticket Inspector](2026-08-19_am/question.md) | 2026-08-19 |
 | 220 | [The Three-Cornered Duel](2026-08-19_pm/question.md) | 2026-08-19 |
+| 221 | [Weighted Argument Principle: Summing Zeros and Poles](2026-08-20_am/question.md) | 2026-08-20 |
