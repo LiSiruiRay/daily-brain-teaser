@@ -227,3 +227,4 @@ Index of all brain teaser problems. Metadata (type, tags, solved, comments, etc.
 | 221 | [Weighted Argument Principle: Summing Zeros and Poles](2026-08-20_am/question.md) | 2026-08-20 |
 | 222 | [Growth Bound Forces Singularity Type](2026-08-20_pm/question.md) | 2026-08-20 |
 | 223 | [Central Binomial Coefficient mod Prime](2026-08-21_am/question.md) | 2026-08-21 |
+| 224 | [The Polynomial Pigeonhole](2026-08-21_pm/question.md) | 2026-08-21 |
