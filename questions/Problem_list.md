@@ -231,3 +231,4 @@ Index of all brain teaser problems. Metadata (type, tags, solved, comments, etc.
 | 225 | [The Integral That Reflects Twice](2026-08-22_am/question.md) | 2026-08-22 |
 | 226 | [The Integral That Walks Down Stairs](2026-08-22_pm/question.md) | 2026-08-22 |
 | 227 | [EM Algorithm's Hidden Monotonicity](2026-08-23_am/question.md) | 2026-08-23 |
+| 228 | [The Logistic Regression Coefficient That Goes to Infinity](2026-08-23_pm/question.md) | 2026-08-23 |
