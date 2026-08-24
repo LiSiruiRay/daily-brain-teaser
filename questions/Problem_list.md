@@ -232,3 +232,4 @@ Index of all brain teaser problems. Metadata (type, tags, solved, comments, etc.
 | 226 | [The Integral That Walks Down Stairs](2026-08-22_pm/question.md) | 2026-08-22 |
 | 227 | [EM Algorithm's Hidden Monotonicity](2026-08-23_am/question.md) | 2026-08-23 |
 | 228 | [The Logistic Regression Coefficient That Goes to Infinity](2026-08-23_pm/question.md) | 2026-08-23 |
+| 229 | [The Continuous Function That Must Change Sign](2026-08-24_am/question.md) | 2026-08-24 |
