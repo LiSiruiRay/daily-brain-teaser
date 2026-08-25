@@ -235,3 +235,4 @@ Index of all brain teaser problems. Metadata (type, tags, solved, comments, etc.
 | 229 | [The Continuous Function That Must Change Sign](2026-08-24_am/question.md) | 2026-08-24 |
 | 230 | [The Measurable Set That Fills Every Interval](2026-08-24_pm/question.md) | 2026-08-24 |
 | 231 | [The Torus That Forgets a Disk](2026-08-25_am/question.md) | 2026-08-25 |
+| 232 | [Fundamental Group of RP²](2026-08-25_pm/question.md) | 2026-08-25 |
