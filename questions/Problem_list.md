@@ -238,3 +238,4 @@ Index of all brain teaser problems. Metadata (type, tags, solved, comments, etc.
 | 232 | [Fundamental Group of RP²](2026-08-25_pm/question.md) | 2026-08-25 |
 | 233 | [Gambler's Duration via Martingale](2026-08-26_am/question.md) | 2026-08-26 |
 | 234 | [The Entire Function Bounded on a Line](2026-08-27_pm/question.md) | 2026-08-27 |
+| 235 | [Determinant Tic-Tac-Toe](2026-08-28_am/question.md) | 2026-08-28 |
