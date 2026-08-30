@@ -242,3 +242,4 @@ Index of all brain teaser problems. Metadata (type, tags, solved, comments, etc.
 | 236 | [The Integral That Completes the Square in the Exponent](2026-08-29_am/question.md) | 2026-08-29 |
 | 237 | [The Integral That Loves a Log-Sine Cousin](2026-08-29_pm/question.md) | 2026-08-29 |
 | 238 | [LOO Risk That Knows Its Smoother](2026-08-30_am/question.md) | 2026-08-30 |
+| 239 | [The Softmax That Forgets Its Past: Invariance to Label Permutation vs. Feature Permutation](2026-08-30_pm/question.md) | 2026-08-30 |
