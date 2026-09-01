@@ -245,3 +245,4 @@ Index of all brain teaser problems. Metadata (type, tags, solved, comments, etc.
 | 239 | [The Softmax That Forgets Its Past: Invariance to Label Permutation vs. Feature Permutation](2026-08-30_pm/question.md) | 2026-08-30 |
 | 240 | [The Lebesgue Integral That Measures Its Own Level Sets](2026-08-31_pm/question.md) | 2026-08-31 |
 | 241 | [The Absolutely Continuous Function That Forgets Its Derivative](2026-08-31_am/question.md) | 2026-08-31 |
+| 242 | [The Covering Space That Wraps Around Twice](2026-09-01_pm/question.md) | 2026-09-01 |
