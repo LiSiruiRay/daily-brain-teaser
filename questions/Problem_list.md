@@ -247,3 +247,4 @@ Index of all brain teaser problems. Metadata (type, tags, solved, comments, etc.
 | 241 | [The Absolutely Continuous Function That Forgets Its Derivative](2026-08-31_am/question.md) | 2026-08-31 |
 | 242 | [The Covering Space That Wraps Around Twice](2026-09-01_pm/question.md) | 2026-09-01 |
 | 243 | [Twin Knights: Meeting in the Tournament](2026-09-02_am/question.md) | 2026-09-02 |
+| 244 | [The Three-Door Switcheroo: Generalized Monty Hall](2026-09-02_pm/question.md) | 2026-09-02 |
