@@ -250,3 +250,4 @@ Index of all brain teaser problems. Metadata (type, tags, solved, comments, etc.
 | 244 | [The Three-Door Switcheroo: Generalized Monty Hall](2026-09-02_pm/question.md) | 2026-09-02 |
 | 245 | [The Holomorphic Function That Misses Two Points](2026-09-03_am/question.md) | 2026-09-03 |
 | 246 | [The Conformal Map That Straightens a Half-Strip](2026-09-03_pm/question.md) | 2026-09-03 |
+| 247 | [The Polynomial That Divides Its Own Composition](2026-09-04_am/question.md) | 2026-09-04 |
