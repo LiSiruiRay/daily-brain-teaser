@@ -252,3 +252,4 @@ Index of all brain teaser problems. Metadata (type, tags, solved, comments, etc.
 | 246 | [The Conformal Map That Straightens a Half-Strip](2026-09-03_pm/question.md) | 2026-09-03 |
 | 247 | [The Polynomial That Divides Its Own Composition](2026-09-04_am/question.md) | 2026-09-04 |
 | 248 | [The Checkerboard Walk: Can the Knight Return Home?](2026-09-04_pm/question.md) | 2026-09-04 |
+| 249 | [The Integral That Loops Back Around](2026-09-05_am/question.md) | 2026-09-05 |
