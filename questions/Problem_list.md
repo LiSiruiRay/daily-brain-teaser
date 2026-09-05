@@ -253,3 +253,4 @@ Index of all brain teaser problems. Metadata (type, tags, solved, comments, etc.
 | 247 | [The Polynomial That Divides Its Own Composition](2026-09-04_am/question.md) | 2026-09-04 |
 | 248 | [The Checkerboard Walk: Can the Knight Return Home?](2026-09-04_pm/question.md) | 2026-09-04 |
 | 249 | [The Integral That Loops Back Around](2026-09-05_am/question.md) | 2026-09-05 |
+| 250 | [Integral of sin³x/(sin³x+cos³x)](2026-09-05_pm/question.md) | 2026-09-05 |
