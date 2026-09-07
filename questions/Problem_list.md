@@ -256,3 +256,4 @@ Index of all brain teaser problems. Metadata (type, tags, solved, comments, etc.
 | 250 | [Integral of sin³x/(sin³x+cos³x)](2026-09-05_pm/question.md) | 2026-09-05 |
 | 251 | [The Posterior That Forgets the Prior](2026-09-06_am/question.md) | 2026-09-06 |
 | 252 | [The Calibration Trap: Perfect Accuracy vs Probability Estimation](2026-09-06_pm/question.md) | 2026-09-06 |
+| 253 | [Surjective Map on Interval Has Two Fixed Points](2026-09-07_am/question.md) | 2026-09-07 |
