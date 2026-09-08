@@ -259,3 +259,4 @@ Index of all brain teaser problems. Metadata (type, tags, solved, comments, etc.
 | 253 | [Surjective Map on Interval Has Two Fixed Points](2026-09-07_am/question.md) | 2026-09-07 |
 | 254 | [Uniform Limit of Derivatives via Integration](2026-09-07_pm/question.md) | 2026-09-07 |
 | 255 | [The Quotient Square That Becomes a Disk](2026-09-08_am/question.md) | 2026-09-08 |
+| 256 | [The Covering Space That Knows Its Sheets](2026-09-08_pm/question.md) | 2026-09-08 |
