@@ -261,3 +261,4 @@ Index of all brain teaser problems. Metadata (type, tags, solved, comments, etc.
 | 255 | [The Quotient Square That Becomes a Disk](2026-09-08_am/question.md) | 2026-09-08 |
 | 256 | [The Covering Space That Knows Its Sheets](2026-09-08_pm/question.md) | 2026-09-08 |
 | 257 | [The Lazy Gambler's Last Dollar](2026-09-09_am/question.md) | 2026-09-09 |
+| 258 | [Ties in Matching Pennies](2026-09-09_pm/question.md) | 2026-09-09 |
