@@ -263,3 +263,4 @@ Index of all brain teaser problems. Metadata (type, tags, solved, comments, etc.
 | 257 | [The Lazy Gambler's Last Dollar](2026-09-09_am/question.md) | 2026-09-09 |
 | 258 | [Ties in Matching Pennies](2026-09-09_pm/question.md) | 2026-09-09 |
 | 259 | [The Entire Function That Squares to Another](2026-09-10_am/question.md) | 2026-09-10 |
+| 260 | [The Coloring That Cannot Avoid Arithmetic](2026-09-11_am/question.md) | 2026-09-11 |
