@@ -266,3 +266,4 @@ Index of all brain teaser problems. Metadata (type, tags, solved, comments, etc.
 | 260 | [The Coloring That Cannot Avoid Arithmetic](2026-09-11_am/question.md) | 2026-09-11 |
 | 261 | [The Expression That Only Skips Perfect Cubes](2026-09-11_pm/question.md) | 2026-09-11 |
 | 262 | [The Integral That Squares Its Sine](2026-09-12_am/question.md) | 2026-09-12 |
+| 263 | [Integral of arctan(x)/(1+x²)](2026-09-12_pm/question.md) | 2026-09-12 |
