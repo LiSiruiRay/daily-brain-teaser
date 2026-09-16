@@ -272,3 +272,4 @@ Index of all brain teaser problems. Metadata (type, tags, solved, comments, etc.
 | 266 | [Orthogonality to Monomials: Missing n=0](2026-09-14_pm/question.md) | 2026-09-14 |
 | 267 | [Connected Sum of Two RP²s and Its Fundamental Group](2026-09-15_am/question.md) | 2026-09-15 |
 | 268 | [Torus Knot Curve: Simple Closed Curve and Annular Complement](2026-09-15_pm/question.md) | 2026-09-15 |
+| 269 | [Expected Number of Matches](2026-09-16_am/question.md) | 2026-09-16 |
