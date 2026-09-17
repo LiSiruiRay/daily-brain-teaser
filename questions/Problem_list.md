@@ -275,3 +275,4 @@ Index of all brain teaser problems. Metadata (type, tags, solved, comments, etc.
 | 269 | [Expected Number of Matches](2026-09-16_am/question.md) | 2026-09-16 |
 | 270 | [The Prisoner's Pardon: Three Boxes, One Clue](2026-09-16_pm/question.md) | 2026-09-16 |
 | 271 | [The Conformal Map That Doubles Its Angle](2026-09-17_am/question.md) | 2026-09-17 |
+| 272 | [The Entire Function That Grows Too Slowly](2026-09-17_pm/question.md) | 2026-09-17 |
