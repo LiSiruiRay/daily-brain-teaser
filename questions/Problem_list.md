@@ -279,3 +279,4 @@ Index of all brain teaser problems. Metadata (type, tags, solved, comments, etc.
 | 273 | [Expected Fixed Points of a Random Permutation](2026-09-18_am/question.md) | 2026-09-18 |
 | 274 | [The Integral That Knows Euler's Constant](2026-09-19_am/question.md) | 2026-09-19 |
 | 275 | [Sophomore's Dream: Integral of x^x](2026-09-19_pm/question.md) | 2026-09-19 |
+| 276 | [2026-09-20_am](2026-09-20_am/question.md) | 2026-09-20 |
