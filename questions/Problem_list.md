@@ -284,3 +284,4 @@ Index of all brain teaser problems. Metadata (type, tags, solved, comments, etc.
 | 278 | [Stone–Weierstrass: Even vs Odd Power Subalgebras](2026-09-21_pm/question.md) | 2026-09-21 |
 | 279 | [Cofinite Topology: Compact but Not Hausdorff](2026-09-22_am/question.md) | 2026-09-22 |
 | 280 | [Punctured RP² Has Fundamental Group ℤ](2026-09-22_pm/question.md) | 2026-09-22 |
+| 281 | [The Collector Who Stops Too Early](2026-09-23_am/question.md) | 2026-09-23 |
