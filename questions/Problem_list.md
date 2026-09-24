@@ -286,3 +286,4 @@ Index of all brain teaser problems. Metadata (type, tags, solved, comments, etc.
 | 280 | [Punctured RP² Has Fundamental Group ℤ](2026-09-22_pm/question.md) | 2026-09-22 |
 | 281 | [The Collector Who Stops Too Early](2026-09-23_am/question.md) | 2026-09-23 |
 | 282 | [The Ballot Box Twist: Runs of the Same Color](2026-09-23_pm/question.md) | 2026-09-23 |
+| 283 | [The Holomorphic Function That Integrates to Zero on Every Circle](2026-09-24_am/question.md) | 2026-09-24 |
