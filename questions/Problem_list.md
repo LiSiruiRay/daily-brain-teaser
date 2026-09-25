@@ -288,3 +288,4 @@ Index of all brain teaser problems. Metadata (type, tags, solved, comments, etc.
 | 282 | [The Ballot Box Twist: Runs of the Same Color](2026-09-23_pm/question.md) | 2026-09-23 |
 | 283 | [The Holomorphic Function That Integrates to Zero on Every Circle](2026-09-24_am/question.md) | 2026-09-24 |
 | 284 | [Natural Boundary via Factorial Lacunary Series](2026-09-24_pm/question.md) | 2026-09-24 |
+| 285 | [The Polynomial That Takes Integer Values at Half-Integers](2026-09-25_am/question.md) | 2026-09-25 |
