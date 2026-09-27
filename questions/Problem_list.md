@@ -291,3 +291,4 @@ Index of all brain teaser problems. Metadata (type, tags, solved, comments, etc.
 | 285 | [The Polynomial That Takes Integer Values at Half-Integers](2026-09-25_am/question.md) | 2026-09-25 |
 | 286 | [The Integral That Sums Geometric Angles](2026-09-26_am/question.md) | 2026-09-26 |
 | 287 | [Fisher Information Curvature Identity](2026-09-27_am/question.md) | 2026-09-27 |
+| 288 | [Precision Matrix and Conditional Independence](2026-09-27_pm/question.md) | 2026-09-27 |
