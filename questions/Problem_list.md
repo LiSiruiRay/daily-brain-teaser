@@ -292,3 +292,4 @@ Index of all brain teaser problems. Metadata (type, tags, solved, comments, etc.
 | 286 | [The Integral That Sums Geometric Angles](2026-09-26_am/question.md) | 2026-09-26 |
 | 287 | [Fisher Information Curvature Identity](2026-09-27_am/question.md) | 2026-09-27 |
 | 288 | [Precision Matrix and Conditional Independence](2026-09-27_pm/question.md) | 2026-09-27 |
+| 289 | [The Integral That Knows Its Own Symmetry](2026-09-28_pm/question.md) | 2026-09-28 |
