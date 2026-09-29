@@ -294,3 +294,4 @@ Index of all brain teaser problems. Metadata (type, tags, solved, comments, etc.
 | 288 | [Precision Matrix and Conditional Independence](2026-09-27_pm/question.md) | 2026-09-27 |
 | 289 | [The Integral That Knows Its Own Symmetry](2026-09-28_pm/question.md) | 2026-09-28 |
 | 290 | [The Equicontinuous Sequence That Must Converge](2026-09-28_am/question.md) | 2026-09-28 |
+| 291 | [Disk Boundary Reflection Gives Sphere](2026-09-29_pm/question.md) | 2026-09-29 |
