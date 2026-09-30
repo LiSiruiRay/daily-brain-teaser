@@ -295,3 +295,4 @@ Index of all brain teaser problems. Metadata (type, tags, solved, comments, etc.
 | 289 | [The Integral That Knows Its Own Symmetry](2026-09-28_pm/question.md) | 2026-09-28 |
 | 290 | [The Equicontinuous Sequence That Must Converge](2026-09-28_am/question.md) | 2026-09-28 |
 | 291 | [Disk Boundary Reflection Gives Sphere](2026-09-29_pm/question.md) | 2026-09-29 |
+| 292 | [The Gambler's Ruin on a Circle](2026-09-30_pm/question.md) | 2026-09-30 |
