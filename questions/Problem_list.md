@@ -296,3 +296,4 @@ Index of all brain teaser problems. Metadata (type, tags, solved, comments, etc.
 | 290 | [The Equicontinuous Sequence That Must Converge](2026-09-28_am/question.md) | 2026-09-28 |
 | 291 | [Disk Boundary Reflection Gives Sphere](2026-09-29_pm/question.md) | 2026-09-29 |
 | 292 | [The Gambler's Ruin on a Circle](2026-09-30_pm/question.md) | 2026-09-30 |
+| 293 | [The Flippant Juror's Cousin: Four Jurors and a Coin](2026-09-30_am/question.md) | 2026-09-30 |
