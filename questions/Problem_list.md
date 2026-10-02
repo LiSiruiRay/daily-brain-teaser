@@ -298,3 +298,4 @@ Index of all brain teaser problems. Metadata (type, tags, solved, comments, etc.
 | 292 | [The Gambler's Ruin on a Circle](2026-09-30_pm/question.md) | 2026-09-30 |
 | 293 | [The Flippant Juror's Cousin: Four Jurors and a Coin](2026-09-30_am/question.md) | 2026-09-30 |
 | 294 | [The Holomorphic Function That Knows Its Zeros Are Real](2026-10-01_pm/question.md) | 2026-10-01 |
+| 295 | [The Integers That Sum to Their Product](2026-10-02_pm/question.md) | 2026-10-02 |
