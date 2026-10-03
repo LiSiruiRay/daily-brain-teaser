@@ -300,3 +300,4 @@ Index of all brain teaser problems. Metadata (type, tags, solved, comments, etc.
 | 294 | [The Holomorphic Function That Knows Its Zeros Are Real](2026-10-01_pm/question.md) | 2026-10-01 |
 | 295 | [The Integers That Sum to Their Product](2026-10-02_pm/question.md) | 2026-10-02 |
 | 296 | [The Integral That Knows About Primes](2026-10-03_am/question.md) | 2026-10-03 |
+| 297 | [Frullani-Type Log Integral via Feynman](2026-10-03_pm/question.md) | 2026-10-03 |
