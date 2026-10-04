@@ -301,3 +301,4 @@ Index of all brain teaser problems. Metadata (type, tags, solved, comments, etc.
 | 295 | [The Integers That Sum to Their Product](2026-10-02_pm/question.md) | 2026-10-02 |
 | 296 | [The Integral That Knows About Primes](2026-10-03_am/question.md) | 2026-10-03 |
 | 297 | [Frullani-Type Log Integral via Feynman](2026-10-03_pm/question.md) | 2026-10-03 |
+| 298 | [The EM Algorithm That Overshoots: Why Hard Assignment Fails](2026-10-04_am/question.md) | 2026-10-04 |
