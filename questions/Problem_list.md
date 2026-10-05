@@ -303,3 +303,4 @@ Index of all brain teaser problems. Metadata (type, tags, solved, comments, etc.
 | 297 | [Frullani-Type Log Integral via Feynman](2026-10-03_pm/question.md) | 2026-10-03 |
 | 298 | [The EM Algorithm That Overshoots: Why Hard Assignment Fails](2026-10-04_am/question.md) | 2026-10-04 |
 | 299 | [Cross-Entropy Decomposition: Entropy + KL Divergence](2026-10-04_pm/question.md) | 2026-10-04 |
+| 300 | [The Sequence That Must Have a Convergent Subsequence... or Does It?](2026-10-05_pm/question.md) | 2026-10-05 |
