@@ -305,3 +305,4 @@ Index of all brain teaser problems. Metadata (type, tags, solved, comments, etc.
 | 299 | [Cross-Entropy Decomposition: Entropy + KL Divergence](2026-10-04_pm/question.md) | 2026-10-04 |
 | 300 | [The Sequence That Must Have a Convergent Subsequence... or Does It?](2026-10-05_pm/question.md) | 2026-10-05 |
 | 301 | [Vanishing Fourier Coefficients Force Zero](2026-10-05_am/question.md) | 2026-10-05 |
+| 302 | [Cofinite Topology: Compact but Not Closed](2026-10-06_pm/question.md) | 2026-10-06 |
