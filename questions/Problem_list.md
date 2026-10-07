@@ -307,3 +307,4 @@ Index of all brain teaser problems. Metadata (type, tags, solved, comments, etc.
 | 301 | [Vanishing Fourier Coefficients Force Zero](2026-10-05_am/question.md) | 2026-10-05 |
 | 302 | [Cofinite Topology: Compact but Not Closed](2026-10-06_pm/question.md) | 2026-10-06 |
 | 303 | [Torus Minus Disk: Free Group Appears](2026-10-06_am/question.md) | 2026-10-06 |
+| 304 | [The Duelist's Dilemma: Who Wins When A Shoots First?](2026-10-07_pm/question.md) | 2026-10-07 |
