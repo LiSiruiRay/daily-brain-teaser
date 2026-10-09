@@ -310,3 +310,4 @@ Index of all brain teaser problems. Metadata (type, tags, solved, comments, etc.
 | 304 | [The Duelist's Dilemma: Who Wins When A Shoots First?](2026-10-07_pm/question.md) | 2026-10-07 |
 | 305 | [The Flippant Juror: Three Jurors and a Coin](2026-10-07_am/question.md) | 2026-10-07 |
 | 306 | [The Conformal Map That Unfolds a Wedge](2026-10-08_pm/question.md) | 2026-10-08 |
+| 307 | [2026-10-08_am](2026-10-08_am/question.md) | 2026-10-08 |
