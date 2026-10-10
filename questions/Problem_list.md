@@ -311,3 +311,4 @@ Index of all brain teaser problems. Metadata (type, tags, solved, comments, etc.
 | 305 | [The Flippant Juror: Three Jurors and a Coin](2026-10-07_am/question.md) | 2026-10-07 |
 | 306 | [The Conformal Map That Unfolds a Wedge](2026-10-08_pm/question.md) | 2026-10-08 |
 | 307 | [2026-10-08_am](2026-10-08_am/question.md) | 2026-10-08 |
+| 308 | [The Polynomial That Stays Small on Integers](2026-10-09_am/question.md) | 2026-10-09 |
