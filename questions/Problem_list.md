@@ -312,3 +312,4 @@ Index of all brain teaser problems. Metadata (type, tags, solved, comments, etc.
 | 306 | [The Conformal Map That Unfolds a Wedge](2026-10-08_pm/question.md) | 2026-10-08 |
 | 307 | [2026-10-08_am](2026-10-08_am/question.md) | 2026-10-08 |
 | 308 | [The Polynomial That Stays Small on Integers](2026-10-09_am/question.md) | 2026-10-09 |
+| 309 | [The Integral That Sums to an Arcsine](2026-10-10_pm/question.md) | 2026-10-10 |
