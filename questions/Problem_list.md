@@ -313,3 +313,4 @@ Index of all brain teaser problems. Metadata (type, tags, solved, comments, etc.
 | 307 | [2026-10-08_am](2026-10-08_am/question.md) | 2026-10-08 |
 | 308 | [The Polynomial That Stays Small on Integers](2026-10-09_am/question.md) | 2026-10-09 |
 | 309 | [The Integral That Sums to an Arcsine](2026-10-10_pm/question.md) | 2026-10-10 |
+| 310 | [The Integral That Absorbs a Parameter](2026-10-10_am/question.md) | 2026-10-10 |
