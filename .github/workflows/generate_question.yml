@@ -1,15 +1,19 @@
 name: Generate Brain Teaser
 
+# Primary trigger: the server's crontab runs scripts/trigger_generate.sh, which
+# calls `gh workflow run` at 03:00 and 13:00 America/Los_Angeles.
+# The schedule below is only a fallback (GitHub runs it hours late); the script
+# skips a slot that already exists, so a duplicate run is harmless.
 on:
   schedule:
-    - cron: "0 9 * * *"    # ~4am ET (9am UTC ≈ 4am EST / 5am EDT)
-    - cron: "0 21 * * *"   # ~4pm ET (9pm UTC ≈ 4pm EST / 5pm EDT)
+    - cron: "37 12 * * *"   # fallback, ~4:37/5:37am LA
+    - cron: "37 22 * * *"   # fallback, ~2:37/3:37pm LA
   workflow_dispatch:
     inputs:
       slot:
-        description: "Slot to generate (am or pm)"
+        description: "Slot to generate (am or pm); empty = by LA time"
         required: false
-        default: "am"
+        default: ""
 
 jobs:
   generate:
@@ -29,26 +33,26 @@ jobs:
       - name: Install dependencies
         run: pip install anthropic pypdf
 
-      - name: Determine slot from UTC hour
+      - name: Determine slot and date from LA time
         id: slot
         run: |
-          HOUR=$(date -u +%H)
-          if [ "$HOUR" -lt 15 ]; then
-            echo "value=am" >> $GITHUB_OUTPUT
-          else
-            echo "value=pm" >> $GITHUB_OUTPUT
+          SLOT="${{ github.event.inputs.slot }}"
+          if [ -z "$SLOT" ]; then
+            HOUR=$(TZ=America/Los_Angeles date +%-H)
+            if [ "$HOUR" -lt 12 ]; then SLOT=am; else SLOT=pm; fi
           fi
+          echo "value=$SLOT" >> $GITHUB_OUTPUT
+          echo "date=$(TZ=America/Los_Angeles date +%Y-%m-%d)" >> $GITHUB_OUTPUT
 
       - name: Generate question
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-          SLOT: ${{ github.event.inputs.slot || steps.slot.outputs.value }}
-        run: python scripts/generate_question.py ${{ github.event.inputs.slot || steps.slot.outputs.value }}
+        run: python scripts/generate_question.py ${{ steps.slot.outputs.value }}
 
       - name: Commit and push
         run: |
           git config user.name "LiSiruiRay"
           git config user.email "LiSiruiRay@outlook.com"
           git add questions/ README.md
-          git diff --cached --quiet || git commit -m "auto: $(date -u +%Y-%m-%d) ${{ steps.slot.outputs.value }} question"
+          git diff --cached --quiet || git commit -m "auto: ${{ steps.slot.outputs.date }} ${{ steps.slot.outputs.value }} question"
           git push

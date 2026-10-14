@@ -1,6 +1,7 @@
 """
 Generates one brain teaser via Claude API and commits it to the repo.
-Called by GitHub Actions at 4am and 4pm ET.
+Called by GitHub Actions; triggered from the server's crontab at ~3am and ~1pm
+America/Los_Angeles (with GitHub's own schedule as a fallback).
 
 Usage:
   python scripts/generate_question.py am
@@ -13,7 +14,8 @@ import re
 import sys
 import random
 from pathlib import Path
-from datetime import datetime, timezone, timedelta
+from datetime import datetime
+from zoneinfo import ZoneInfo
 
 import anthropic
 
@@ -27,9 +29,8 @@ REPO_ROOT = Path(__file__).parent.parent
 QUESTIONS_DIR = REPO_ROOT / "questions"
 MATERIALS_DIR = REPO_ROOT / "materials"
 
-# Eastern Time offset (EDT = -4). GitHub Actions cron doesn't track DST;
-# the 1-hour drift between EDT/EST is acceptable for a personal site.
-ET = timezone(timedelta(hours=-4))
+# Ray lives in Santa Clara: dates, slots and weekday topics follow LA time.
+LA = ZoneInfo("America/Los_Angeles")
 
 SCHEDULE = {
     0: ("Analysis (Stein / Rudin)",              ["analysis"],              "analysis"),
@@ -73,14 +74,16 @@ source: "Book or source name (leave empty string if none)"
 
 # ── helpers ──────────────────────────────────────────────────────────────────
 
-def today_et() -> str:
-    return datetime.now(ET).strftime("%Y-%m-%d")
+def today_la() -> str:
+    return datetime.now(LA).strftime("%Y-%m-%d")
 
 
 def get_slot() -> str:
     if len(sys.argv) > 1 and sys.argv[1] in ("am", "pm"):
         return sys.argv[1]
-    return os.environ.get("SLOT", "am")
+    if os.environ.get("SLOT") in ("am", "pm"):
+        return os.environ["SLOT"]
+    return "am" if datetime.now(LA).hour < 12 else "pm"
 
 
 def list_pdfs(folders: list[str]) -> list[Path]:
@@ -176,13 +179,23 @@ def call_claude(slot: str, topic: str, canonical_type: str,
         "Use $...$ for inline LaTeX and $$...$$ for display math."
     )
 
-    msg = client.messages.create(
-        model="claude-sonnet-4-6",
-        max_tokens=2048,
+    # Opus 5.5 always thinks; effort "high" (default is medium) for correct proofs.
+    # Streaming because max_tokens is large; fallbacks reroute a rare refusal.
+    with client.beta.messages.stream(
+        model="claude-opus-5-5",
+        max_tokens=32000,
+        output_config={"effort": "high"},
+        betas=["server-side-fallback-2026-07-01"],
+        fallbacks="default",
         system=system,
         messages=[{"role": "user", "content": user_msg}],
-    )
-    return msg.content[0].text
+    ) as stream:
+        msg = stream.get_final_message()
+
+    if msg.stop_reason in ("refusal", "max_tokens"):
+        print(f"ERROR: stop_reason={msg.stop_reason}")
+        sys.exit(1)
+    return "".join(b.text for b in msg.content if b.type == "text")
 
 
 # ── response parsing ──────────────────────────────────────────────────────────
@@ -247,10 +260,10 @@ def append_to_problem_list(slug: str, name: str, date: str):
 
 def main():
     slot = get_slot()
-    date = today_et()
+    date = today_la()
     slug = f"{date}_{slot}"
 
-    topic_name, folders, canonical_type = SCHEDULE[datetime.now(ET).weekday()]
+    topic_name, folders, canonical_type = SCHEDULE[datetime.now(LA).weekday()]
     print(f"Generating [{slot.upper()}] {date} — topic: {topic_name}")
 
     out_dir = QUESTIONS_DIR / slug
