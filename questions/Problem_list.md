@@ -319,3 +319,4 @@ Index of all brain teaser problems. Metadata (type, tags, solved, comments, etc.
 | 313 | [The Function That Is Its Own Average](2026-10-12_pm/question.md) | 2026-10-12 |
 | 314 | [The Continuous Function That Cannot Be Monotone on Any Interval](2026-10-12_am/question.md) | 2026-10-12 |
 | 315 | [Cofinite Topology: T₁ but Not Hausdorff](2026-10-13_pm/question.md) | 2026-10-13 |
+| 316 | [The Wedge That Knows Its Loops](2026-10-13_am/question.md) | 2026-10-13 |
