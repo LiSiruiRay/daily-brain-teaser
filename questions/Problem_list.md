@@ -322,3 +322,4 @@ Index of all brain teaser problems. Metadata (type, tags, solved, comments, etc.
 | 316 | [The Wedge That Knows Its Loops](2026-10-13_am/question.md) | 2026-10-13 |
 | 317 | [The Ballot Box Surprise: Early Leader Locks In](2026-10-14_am/question.md) | 2026-10-14 |
 | 318 | [Successive Wins: Father or Champion in the Middle?](2026-10-14_pm/question.md) | 2026-10-14 |
+| 319 | [The Function That Cannot Explode at the Boundary](2026-10-15_am/question.md) | 2026-10-15 |
