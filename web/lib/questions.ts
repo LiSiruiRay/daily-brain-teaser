@@ -60,12 +60,12 @@ export function getAllQuestions(): Question[] {
     .sort((a, b) => b.date.localeCompare(a.date));
 }
 
-function todayET(): string {
-  return new Date().toLocaleDateString("en-CA", { timeZone: "America/New_York" });
+function todayLA(): string {
+  return new Date().toLocaleDateString("en-CA", { timeZone: "America/Los_Angeles" });
 }
 
 export function getTodayQuestions(): { am: Question | null; pm: Question | null } {
-  const today = todayET();
+  const today = todayLA();
   return {
     am: getQuestion(`${today}_am`),
     pm: getQuestion(`${today}_pm`),

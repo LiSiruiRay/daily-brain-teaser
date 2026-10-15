@@ -17,18 +17,18 @@ const DAY_SCHEDULE: Record<number, string> = {
 function todayLabel(): { dateStr: string; schedule: string } {
   const now = new Date();
   const dateStr = now.toLocaleDateString("en-US", {
-    timeZone: "America/New_York",
+    timeZone: "America/Los_Angeles",
     weekday: "long",
     year: "numeric",
     month: "long",
     day: "numeric",
   });
   const dow = parseInt(
-    now.toLocaleDateString("en-CA", { timeZone: "America/New_York", weekday: undefined })
+    now.toLocaleDateString("en-CA", { timeZone: "America/Los_Angeles", weekday: undefined })
   );
   // get weekday index (0=Sun in JS, but we want 0=Mon)
   const jsDay = new Date(
-    new Date().toLocaleDateString("en-CA", { timeZone: "America/New_York" })
+    new Date().toLocaleDateString("en-CA", { timeZone: "America/Los_Angeles" })
   ).getDay();
   const schedule = DAY_SCHEDULE[jsDay === 0 ? 6 : jsDay - 1] ?? "";
   return { dateStr, schedule };
@@ -53,7 +53,7 @@ export default function HomePage() {
         ) : (
           <div className="bg-white rounded-2xl border border-dashed border-slate-200 px-6 py-10 text-center text-slate-400">
             <p className="text-sm font-medium">AM question not yet generated</p>
-            <p className="text-xs mt-1">Scheduled for 4:00 AM ET</p>
+            <p className="text-xs mt-1">Scheduled for 3:00 AM PT</p>
           </div>
         )}
 
@@ -63,7 +63,7 @@ export default function HomePage() {
         ) : (
           <div className="bg-white rounded-2xl border border-dashed border-slate-200 px-6 py-10 text-center text-slate-400">
             <p className="text-sm font-medium">PM question not yet generated</p>
-            <p className="text-xs mt-1">Scheduled for 4:00 PM ET</p>
+            <p className="text-xs mt-1">Scheduled for 1:00 PM PT</p>
           </div>
         )}
       </div>
