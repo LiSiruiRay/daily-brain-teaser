@@ -324,3 +324,4 @@ Index of all brain teaser problems. Metadata (type, tags, solved, comments, etc.
 | 318 | [Successive Wins: Father or Champion in the Middle?](2026-10-14_pm/question.md) | 2026-10-14 |
 | 319 | [The Function That Cannot Explode at the Boundary](2026-10-15_am/question.md) | 2026-10-15 |
 | 320 | [The Monic Polynomial That Cannot Hide Below 1](2026-10-15_pm/question.md) | 2026-10-15 |
+| 321 | [Twelve Lengths and an Acute Triangle](2026-10-16_am/question.md) | 2026-10-16 |
