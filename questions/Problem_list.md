@@ -326,3 +326,4 @@ Index of all brain teaser problems. Metadata (type, tags, solved, comments, etc.
 | 320 | [The Monic Polynomial That Cannot Hide Below 1](2026-10-15_pm/question.md) | 2026-10-15 |
 | 321 | [Twelve Lengths and an Acute Triangle](2026-10-16_am/question.md) | 2026-10-16 |
 | 322 | [Three-Fold Closure Forces Two-Fold Closure](2026-10-16_pm/question.md) | 2026-10-16 |
+| 323 | [Why π Is Less Than 22/7](2026-10-17_am/question.md) | 2026-10-17 |
