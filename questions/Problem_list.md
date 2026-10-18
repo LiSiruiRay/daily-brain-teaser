@@ -329,3 +329,4 @@ Index of all brain teaser problems. Metadata (type, tags, solved, comments, etc.
 | 323 | [Why π Is Less Than 22/7](2026-10-17_am/question.md) | 2026-10-17 |
 | 324 | [Two Integrals, One Curve](2026-10-17_pm/question.md) | 2026-10-17 |
 | 325 | [Why ICA Cannot Unmix Gaussians](2026-10-18_am/question.md) | 2026-10-18 |
+| 326 | [Ridge Regression with Cloned Features](2026-10-18_pm/question.md) | 2026-10-18 |
