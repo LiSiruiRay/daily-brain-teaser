@@ -332,3 +332,4 @@ Index of all brain teaser problems. Metadata (type, tags, solved, comments, etc.
 | 326 | [Ridge Regression with Cloned Features](2026-10-18_pm/question.md) | 2026-10-18 |
 | 327 | [The Universal Chord Theorem](2026-10-19_am/question.md) | 2026-10-19 |
 | 328 | [The Derivative That Drags Its Function Along](2026-10-19_pm/question.md) | 2026-10-19 |
+| 329 | [A Connected Metric Space Cannot Be Countable](2026-10-20_am/question.md) | 2026-10-20 |
