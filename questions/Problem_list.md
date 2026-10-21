@@ -334,3 +334,4 @@ Index of all brain teaser problems. Metadata (type, tags, solved, comments, etc.
 | 328 | [The Derivative That Drags Its Function Along](2026-10-19_pm/question.md) | 2026-10-19 |
 | 329 | [A Connected Metric Space Cannot Be Countable](2026-10-20_am/question.md) | 2026-10-20 |
 | 330 | [Furstenberg's Topological Proof of Infinitely Many Primes](2026-10-20_pm/question.md) | 2026-10-20 |
+| 331 | [The Cliff-Hanger](2026-10-21_am/question.md) | 2026-10-21 |
