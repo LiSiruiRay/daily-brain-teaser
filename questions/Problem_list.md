@@ -336,3 +336,4 @@ Index of all brain teaser problems. Metadata (type, tags, solved, comments, etc.
 | 330 | [Furstenberg's Topological Proof of Infinitely Many Primes](2026-10-20_pm/question.md) | 2026-10-20 |
 | 331 | [The Cliff-Hanger](2026-10-21_am/question.md) | 2026-10-21 |
 | 332 | [Buffon's Needle and the Noodle Trick](2026-10-21_pm/question.md) | 2026-10-21 |
+| 333 | [A Polynomial That Lives on the Unit Circle](2026-10-22_am/question.md) | 2026-10-22 |
