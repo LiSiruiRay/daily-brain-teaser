@@ -338,3 +338,4 @@ Index of all brain teaser problems. Metadata (type, tags, solved, comments, etc.
 | 332 | [Buffon's Needle and the Noodle Trick](2026-10-21_pm/question.md) | 2026-10-21 |
 | 333 | [A Polynomial That Lives on the Unit Circle](2026-10-22_am/question.md) | 2026-10-22 |
 | 334 | [Positive Real Part of the Derivative Forces Injectivity](2026-10-22_pm/question.md) | 2026-10-22 |
+| 335 | [Four Random Points on a Sphere: Tetrahedron Contains the Center](2026-10-23_am/question.md) | 2026-10-23 |
