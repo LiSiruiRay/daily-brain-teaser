@@ -341,3 +341,4 @@ Index of all brain teaser problems. Metadata (type, tags, solved, comments, etc.
 | 335 | [Four Random Points on a Sphere: Tetrahedron Contains the Center](2026-10-23_am/question.md) | 2026-10-23 |
 | 336 | [Zeros Hidden Before the Beginning](2026-10-23_pm/question.md) | 2026-10-23 |
 | 337 | [The Integral That Only Cares About the Ratio](2026-10-24_am/question.md) | 2026-10-24 |
+| 338 | [Lobachevsky's Folding Trick](2026-10-24_pm/question.md) | 2026-10-24 |
