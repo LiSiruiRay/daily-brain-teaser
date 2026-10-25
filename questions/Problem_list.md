@@ -343,3 +343,4 @@ Index of all brain teaser problems. Metadata (type, tags, solved, comments, etc.
 | 337 | [The Integral That Only Cares About the Ratio](2026-10-24_am/question.md) | 2026-10-24 |
 | 338 | [Lobachevsky's Folding Trick](2026-10-24_pm/question.md) | 2026-10-24 |
 | 339 | [Why the Wavelet Threshold Is σ√(2 log N)](2026-10-25_am/question.md) | 2026-10-25 |
+| 340 | [Nearest Neighbor Is Never More Than Twice as Bad as Bayes](2026-10-25_pm/question.md) | 2026-10-25 |
