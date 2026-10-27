@@ -346,3 +346,4 @@ Index of all brain teaser problems. Metadata (type, tags, solved, comments, etc.
 | 340 | [Nearest Neighbor Is Never More Than Twice as Bad as Bayes](2026-10-25_pm/question.md) | 2026-10-25 |
 | 341 | [How Fast Does Iterated Sine Die?](2026-10-26_am/question.md) | 2026-10-26 |
 | 342 | [Olivier's Theorem: Decreasing Terms Are o(1/n)](2026-10-26_pm/question.md) | 2026-10-26 |
+| 343 | [A Compact Space Has No Room for a Proper Isometric Copy of Itself](2026-10-27_am/question.md) | 2026-10-27 |
