@@ -349,3 +349,4 @@ Index of all brain teaser problems. Metadata (type, tags, solved, comments, etc.
 | 343 | [A Compact Space Has No Room for a Proper Isometric Copy of Itself](2026-10-27_am/question.md) | 2026-10-27 |
 | 344 | [Exactly Twice Is Impossible](2026-10-27_pm/question.md) | 2026-10-27 |
 | 345 | [Doubling Your Accuracy](2026-10-28_am/question.md) | 2026-10-28 |
+| 346 | [Curing the Compulsive Gambler](2026-10-28_pm/question.md) | 2026-10-28 |
