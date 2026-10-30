@@ -352,3 +352,4 @@ Index of all brain teaser problems. Metadata (type, tags, solved, comments, etc.
 | 346 | [Curing the Compulsive Gambler](2026-10-28_pm/question.md) | 2026-10-28 |
 | 347 | [The Circle Has Only One Entire Parametrization](2026-10-29_am/question.md) | 2026-10-29 |
 | 348 | [The Function Polynomials Cannot Reach](2026-10-29_pm/question.md) | 2026-10-29 |
+| 349 | [The Fraction That Eventually Stops Simplifying](2026-10-30_am/question.md) | 2026-10-30 |
