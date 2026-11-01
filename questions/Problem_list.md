@@ -357,3 +357,4 @@ Index of all brain teaser problems. Metadata (type, tags, solved, comments, etc.
 | 351 | [The Quartic That Folds onto Itself](2026-10-31_am/question.md) | 2026-10-31 |
 | 352 | [Poisson's Log-Cosine Integral](2026-10-31_pm/question.md) | 2026-10-31 |
 | 353 | [The Bootstrap That Fools Itself: 1-NN on Pure Noise](2026-11-01_am/question.md) | 2026-11-01 |
+| 354 | [The Cross-Validation That Peeked: Screening Before the Folds](2026-11-01_pm/question.md) | 2026-11-01 |
