@@ -359,3 +359,4 @@ Index of all brain teaser problems. Metadata (type, tags, solved, comments, etc.
 | 353 | [The Bootstrap That Fools Itself: 1-NN on Pure Noise](2026-11-01_am/question.md) | 2026-11-01 |
 | 354 | [The Cross-Validation That Peeked: Screening Before the Folds](2026-11-01_pm/question.md) | 2026-11-01 |
 | 355 | [Fekete's Subadditive Lemma](2026-11-02_am/question.md) | 2026-11-02 |
+| 356 | [The Factorial That Unmasks e](2026-11-02_pm/question.md) | 2026-11-02 |
