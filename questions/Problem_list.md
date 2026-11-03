@@ -361,3 +361,4 @@ Index of all brain teaser problems. Metadata (type, tags, solved, comments, etc.
 | 355 | [Fekete's Subadditive Lemma](2026-11-02_am/question.md) | 2026-11-02 |
 | 356 | [The Factorial That Unmasks e](2026-11-02_pm/question.md) | 2026-11-02 |
 | 357 | [Maps from RP² to the Circle (and Borsuk–Ulam)](2026-11-03_am/question.md) | 2026-11-03 |
+| 358 | [The Plane Cannot Be Sliced into Circles](2026-11-03_pm/question.md) | 2026-11-03 |
