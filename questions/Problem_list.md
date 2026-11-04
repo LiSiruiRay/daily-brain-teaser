@@ -363,3 +363,4 @@ Index of all brain teaser problems. Metadata (type, tags, solved, comments, etc.
 | 357 | [Maps from RP² to the Circle (and Borsuk–Ulam)](2026-11-03_am/question.md) | 2026-11-03 |
 | 358 | [The Plane Cannot Be Sliced into Circles](2026-11-03_pm/question.md) | 2026-11-03 |
 | 359 | [Winning an Unfair Game](2026-11-04_am/question.md) | 2026-11-04 |
+| 360 | [Random Quadratic Equations: Real Roots Almost Surely?](2026-11-04_pm/question.md) | 2026-11-04 |
