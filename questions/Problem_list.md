@@ -365,3 +365,4 @@ Index of all brain teaser problems. Metadata (type, tags, solved, comments, etc.
 | 359 | [Winning an Unfair Game](2026-11-04_am/question.md) | 2026-11-04 |
 | 360 | [Random Quadratic Equations: Real Roots Almost Surely?](2026-11-04_pm/question.md) | 2026-11-04 |
 | 361 | [Injective Entire Functions Are Linear](2026-11-05_am/question.md) | 2026-11-05 |
+| 362 | [Iterates Cannot Escape Fixed Points](2026-11-05_pm/question.md) | 2026-11-05 |
