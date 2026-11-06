@@ -367,3 +367,4 @@ Index of all brain teaser problems. Metadata (type, tags, solved, comments, etc.
 | 361 | [Injective Entire Functions Are Linear](2026-11-05_am/question.md) | 2026-11-05 |
 | 362 | [Iterates Cannot Escape Fixed Points](2026-11-05_pm/question.md) | 2026-11-05 |
 | 363 | [Averaging a Matrix Group Gives a Projection](2026-11-06_am/question.md) | 2026-11-06 |
+| 364 | [Nonnegative Polynomials Are Sums of Squares](2026-11-06_pm/question.md) | 2026-11-06 |
