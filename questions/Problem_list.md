@@ -366,3 +366,4 @@ Index of all brain teaser problems. Metadata (type, tags, solved, comments, etc.
 | 360 | [Random Quadratic Equations: Real Roots Almost Surely?](2026-11-04_pm/question.md) | 2026-11-04 |
 | 361 | [Injective Entire Functions Are Linear](2026-11-05_am/question.md) | 2026-11-05 |
 | 362 | [Iterates Cannot Escape Fixed Points](2026-11-05_pm/question.md) | 2026-11-05 |
+| 363 | [Averaging a Matrix Group Gives a Projection](2026-11-06_am/question.md) | 2026-11-06 |
