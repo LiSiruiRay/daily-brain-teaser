@@ -370,3 +370,4 @@ Index of all brain teaser problems. Metadata (type, tags, solved, comments, etc.
 | 364 | [Nonnegative Polynomials Are Sums of Squares](2026-11-06_pm/question.md) | 2026-11-06 |
 | 365 | [The Integral That Only Sees the Tangent](2026-11-07_am/question.md) | 2026-11-07 |
 | 366 | [The Exponential That Hides a Product Rule](2026-11-07_pm/question.md) | 2026-11-07 |
+| 367 | [Cover's Counting Theorem: Capacity of a Hyperplane](2026-11-08_am/question.md) | 2026-11-08 |
