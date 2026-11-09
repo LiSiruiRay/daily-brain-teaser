@@ -373,3 +373,4 @@ Index of all brain teaser problems. Metadata (type, tags, solved, comments, etc.
 | 367 | [Cover's Counting Theorem: Capacity of a Hyperplane](2026-11-08_am/question.md) | 2026-11-08 |
 | 368 | [The Factorization That Can't Make Up Its Mind: Non-Uniqueness of NMF](2026-11-08_pm/question.md) | 2026-11-08 |
 | 369 | [There Is No Slowest Divergent Series](2026-11-09_am/question.md) | 2026-11-09 |
+| 370 | [Shrinking Without Contracting: Edelstein's Fixed Point Theorem](2026-11-09_pm/question.md) | 2026-11-09 |
