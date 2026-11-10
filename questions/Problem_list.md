@@ -374,3 +374,4 @@ Index of all brain teaser problems. Metadata (type, tags, solved, comments, etc.
 | 368 | [The Factorization That Can't Make Up Its Mind: Non-Uniqueness of NMF](2026-11-08_pm/question.md) | 2026-11-08 |
 | 369 | [There Is No Slowest Divergent Series](2026-11-09_am/question.md) | 2026-11-09 |
 | 370 | [Shrinking Without Contracting: Edelstein's Fixed Point Theorem](2026-11-09_pm/question.md) | 2026-11-09 |
+| 371 | [How Few Vertices Can a Torus Have?](2026-11-10_am/question.md) | 2026-11-10 |
