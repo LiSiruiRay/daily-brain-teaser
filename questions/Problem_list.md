@@ -376,3 +376,4 @@ Index of all brain teaser problems. Metadata (type, tags, solved, comments, etc.
 | 370 | [Shrinking Without Contracting: Edelstein's Fixed Point Theorem](2026-11-09_pm/question.md) | 2026-11-09 |
 | 371 | [How Few Vertices Can a Torus Have?](2026-11-10_am/question.md) | 2026-11-10 |
 | 372 | [Peano Curves Exist, but Peano Bijections Don't](2026-11-10_pm/question.md) | 2026-11-10 |
+| 373 | [Rolling for a Six, Seeing Only Evens](2026-11-11_am/question.md) | 2026-11-11 |
