@@ -380,3 +380,4 @@ Index of all brain teaser problems. Metadata (type, tags, solved, comments, etc.
 | 374 | [The Unfair Subway](2026-11-11_pm/question.md) | 2026-11-11 |
 | 375 | [A Univalent Map Cannot Shrink the Disk](2026-11-12_am/question.md) | 2026-11-12 |
 | 376 | [How Many Zeros Can a Bounded Function Afford?](2026-11-12_pm/question.md) | 2026-11-12 |
+| 377 | [The Geometric Mean Is Superadditive](2026-11-13_am/question.md) | 2026-11-13 |
