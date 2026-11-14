@@ -383,3 +383,4 @@ Index of all brain teaser problems. Metadata (type, tags, solved, comments, etc.
 | 377 | [The Geometric Mean Is Superadditive](2026-11-13_am/question.md) | 2026-11-13 |
 | 378 | [Maximize I(f) − J(f): Pointwise Optimization](2026-11-13_pm/question.md) | 2026-11-13 |
 | 379 | [The Integral That Doesn't Notice x − 1/x](2026-11-14_am/question.md) | 2026-11-14 |
+| 380 | [The Square-Root Sandwich](2026-11-14_pm/question.md) | 2026-11-14 |
