@@ -385,3 +385,4 @@ Index of all brain teaser problems. Metadata (type, tags, solved, comments, etc.
 | 379 | [The Integral That Doesn't Notice x − 1/x](2026-11-14_am/question.md) | 2026-11-14 |
 | 380 | [The Square-Root Sandwich](2026-11-14_pm/question.md) | 2026-11-14 |
 | 381 | [The Gaussian Mixture Whose Likelihood Explodes](2026-11-15_am/question.md) | 2026-11-15 |
+| 382 | [Logistic Regression Secretly Balances Its Books](2026-11-15_pm/question.md) | 2026-11-15 |
