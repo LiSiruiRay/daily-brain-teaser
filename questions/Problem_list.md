@@ -386,3 +386,4 @@ Index of all brain teaser problems. Metadata (type, tags, solved, comments, etc.
 | 380 | [The Square-Root Sandwich](2026-11-14_pm/question.md) | 2026-11-14 |
 | 381 | [The Gaussian Mixture Whose Likelihood Explodes](2026-11-15_am/question.md) | 2026-11-15 |
 | 382 | [Logistic Regression Secretly Balances Its Books](2026-11-15_pm/question.md) | 2026-11-15 |
+| 383 | [Barbalat's Lemma: When Does an Integrable Function Have to Die Out?](2026-11-16_am/question.md) | 2026-11-16 |
