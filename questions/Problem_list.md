@@ -390,3 +390,4 @@ Index of all brain teaser problems. Metadata (type, tags, solved, comments, etc.
 | 384 | [Raising the Terms of a Convergent Series to the Power 1 − 1/n](2026-11-16_pm/question.md) | 2026-11-16 |
 | 385 | [Loops in a Topological Group Commute](2026-11-17_am/question.md) | 2026-11-17 |
 | 386 | [The Ordered Square: Connected but Not Path-Connected](2026-11-17_pm/question.md) | 2026-11-17 |
+| 387 | [The Lost Boarding Pass](2026-11-18_am/question.md) | 2026-11-18 |
